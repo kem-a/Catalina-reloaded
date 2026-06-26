@@ -1,0 +1,63 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<linearGradient id="linearGradient948" x1="122.34" x2="84.091" y1="117.04" y2="71.02" gradientTransform="matrix(.26458 0 0 .26458 -73.214 269.23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient944"/>
+<linearGradient id="linearGradient944">
+<stop stop-color="#d5dada" offset="0"/>
+<stop stop-color="#f1f1f1" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient993" x1="-39.014" x2="-21.756" y1="265.76" y2="285.73" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#f0f0f0" offset="1"/>
+</linearGradient>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<linearGradient id="linearGradient1194" x1="122.34" x2="84.091" y1="117.04" y2="71.02" gradientTransform="matrix(.26458 0 0 .26458 -114.23 271.81)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient944"/>
+<linearGradient id="linearGradient1058" x1="13.778" x2="27.655" y1="70.6" y2=".30106" gradientUnits="userSpaceOnUse">
+<stop stop-color="#86a08d" offset="0"/>
+<stop stop-color="#4d7373" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1060" x1="13.778" x2="27.655" y1="70.6" y2=".30106" gradientTransform="matrix(1.9787 -.31425 .31425 1.9787 3.0751 26.781)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#449159" offset="0"/>
+<stop stop-color="#4d7373" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(0 -263.13)">
+<g transform="matrix(.97507 -.15 .15 .97507 22.55 10.715)" fill="none" opacity=".389" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".039216">
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".15" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".3" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".45" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".6" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".85" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" style="paint-order:fill markers stroke"/>
+</g>
+<rect transform="rotate(-8.764)" x="-40.457" y="264.37" width="25.483" height="29.169" rx="1.4229" ry="1.4229" fill="url(#linearGradient993)" style="paint-order:fill markers stroke"/>
+<g transform="matrix(.52353 -.083146 .083146 .52353 .81362 270.22)" fill="url(#linearGradient1058)">
+<g>
+<path transform="matrix(.49295 .078288 -.078288 .49295 .58077 -13.442)" d="m65.594 56.41-17.807 2.8281 2.2168 33.121 23.744-3.7715-8.1543-32.178zm-1.5527 9.375 2.8281 17.809-11.873 1.8867-2.8281-17.809 11.873-1.8867zm13.148 25.299-29.682 4.7129-1.5527 9.375 35.615-5.6563-4.3809-8.4316z" fill="url(#linearGradient1060)" stroke-width="2.0035"/>
+<path d="m16.5 16.5v1.5h15v-1.5z" fill="url(#linearGradient1058)"/>
+<path d="m18 13.5v1.5h1.5v-1.5z" fill="url(#linearGradient1058)"/>
+<path d="m21 13.5v1.5h6v-1.5z" fill="url(#linearGradient1058)"/>
+<path d="m28.5 13.5v1.5h1.5v-1.5z" fill="url(#linearGradient1058)"/>
+<path d="m16.5 10.5v1.5h15v-1.5z" fill="url(#linearGradient1058)"/>
+<path d="m16.5 9h15l-6-3h-3z" fill="url(#linearGradient1058)"/>
+<circle cx="23.892" cy="5.0714" r="1.5" fill="url(#linearGradient1058)"/>
+</g>
+</g>
+<path transform="matrix(.26458 0 0 .26458 0 263.13)" d="m100.66 29.848-31.012 13.746 0.4707 2.9688 33.674 3.6035-3.1328-20.318z" fill="#849183" fill-opacity=".25258"/>
+<path transform="matrix(.26458 0 0 .26458 0 263.13)" d="m5.5078 44.779 3.1973 20.736 31.732-14.24-0.47266-2.9668-34.457-3.5293z" fill="#849183" fill-opacity=".25258"/>
+</g>
+<style type="text/css">.st0{fill:#656565;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{opacity:0.444;fill:url(#SVGID_3_);enable-background:new    ;}</style>
+</svg>

@@ -1,0 +1,98 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<linearGradient id="a">
+<stop stop-color="#ababab" offset="0"/>
+<stop stop-color="#d1d1d1" offset="1"/>
+</linearGradient>
+<linearGradient id="b" x1="720.32" x2="732.45" y1="-63.055" y2="10.73" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ffde5c" offset="0"/>
+<stop stop-color="#fed844" offset=".22205"/>
+<stop stop-color="#fdca00" offset=".8744"/>
+<stop stop-color="#deb101" offset="1"/>
+</linearGradient>
+<linearGradient id="c" x1="76.61" x2="77.288" y1="149.8" y2="153.46" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="d" x1="87.39" x2="88.068" y1="147.97" y2="151.63" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="e" x1="97.966" x2="98.644" y1="146.34" y2="150" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="f" x1="108.95" x2="109.63" y1="144.64" y2="148.31" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="g" x1="119.66" x2="120.34" y1="142.88" y2="146.54" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="h" x1="130.51" x2="131.19" y1="141.19" y2="144.85" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="i" x1="141.02" x2="141.69" y1="139.29" y2="142.95" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="j" x1="152" x2="152.68" y1="137.66" y2="141.32" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="k" x1="162.92" x2="163.59" y1="136.17" y2="139.83" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="l" x1="173.56" x2="174.24" y1="134.27" y2="137.93" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="m" x1="184.2" x2="184.88" y1="132.51" y2="136.17" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="n" x1="194.85" x2="195.53" y1="130.88" y2="134.54" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="o" x1="205.83" x2="206.51" y1="129.39" y2="133.05" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="p" x1="216.47" x2="217.15" y1="127.56" y2="131.22" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="q" x1="227.19" x2="227.86" y1="125.73" y2="129.39" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="r" x1="237.76" x2="238.44" y1="124.1" y2="127.76" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+<linearGradient id="s" x1="593.17" x2="592.45" y1="195" y2="532.46" gradientTransform="matrix(.9876 -.15699 .15699 .9876 104.65 -82.024)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f8f8f8" offset="0"/>
+<stop stop-color="#f8f8f8" offset="1"/>
+</linearGradient>
+<linearGradient id="t" x1="967.87" x2="633.87" y1="326.08" y2="386.29" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ccd1d0" offset="0"/>
+<stop stop-color="#9ea4a6" offset="1"/>
+</linearGradient>
+<linearGradient id="u" x1="606.15" x2="609.23" y1="511.42" y2="552.09" gradientTransform="matrix(.9876 -.15699 .15699 .9876 104.65 -82.024)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f8c600" offset="0"/>
+<stop stop-color="#896e00" stop-opacity=".83938" offset="1"/>
+</linearGradient>
+<filter id="v" x="-.015686" y="-.013309" width="1.0314" height="1.0266" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="2.6367841"/>
+</filter>
+<g transform="matrix(.25899 0 0 .25899 -136.17 25.194)">
+<path d="m567.31-33.282 335.25-53.293c0.62868-0.09994 1.2152 0.32573 1.3152 0.95441l65.162 409.91c0.0999 0.62868 1.1743 11.215 0.54558 11.315l-335.25 53.293c-0.62867 0.0999-2.7153-10.326-2.8152-10.954l-65.162-409.91c-0.0999-0.62868 0.32573-1.2153 0.95441-1.3152z" fill="#73683c" filter="url(#v)"/>
+<path d="m567.31-33.282 335.25-53.293c0.62868-0.09994 1.2152 0.32573 1.3152 0.95441l65.162 409.91c0.0999 0.62868 1.1743 11.215 0.54558 11.315l-335.25 53.293c-0.62867 0.0999-2.7153-10.326-2.8152-10.954l-65.162-409.91c-0.0999-0.62868 0.32573-1.2153 0.95441-1.3152z" fill="url(#u)"/>
+<path d="m567.53-33.172 334.96-53.246c0.62868-0.09994 1.2153 0.32573 1.3152 0.95441l65.123 409.67c0.0999 0.62867-0.32463 1.2225-0.95441 1.3152-109.33 16.094-220.83 36.488-334.96 53.246-0.6299 0.092-1.2153-0.32573-1.3152-0.9544l-65.123-409.67c-0.0999-0.62868 0.32572-1.2153 0.9544-1.3152z" fill="url(#s)"/>
+<g fill="none" stroke="#9b9b9b" stroke-width="1.2">
+<path d="m581.13 72.552 335.73-53.153"/>
+<path d="m586.01 102.65 335.73-53.153"/>
+<path d="m590.89 132.48 335.73-53.153"/>
+<path d="m596.04 162.31 335.73-53.153"/>
+<path d="m600.92 192.15c111.94-17.673 224.7-34.108 335.73-53.153"/>
+<path d="m605.8 222.25c111.96-17.663 224.67-34.583 335.73-53.153"/>
+<path d="m610.69 252.62c111.97-17.654 224.66-34.592 335.73-53.153"/>
+<path d="m615.67 282.73c112.13-17.387 225.43-33.013 335.73-53.153"/>
+<path d="m620.66 313.02c112.11-17.11 224.57-33.181 335.73-53.153"/>
+<path d="m625.83 343.13c112.02-16.865 224.19-32.455 335.73-53.153"/>
+</g>
+<path d="m902.21-86.599-334.96 53.246c-0.62868 0.0999-1.055 0.68578-0.95508 1.3145l10.885 68.473 337.24-53.496-10.902-68.582c-0.0999-0.62868-0.68772-1.055-1.3164-0.95508z" fill="url(#b)"/>
+<g transform="translate(508.18 -105.51)">
+<circle cx="76.847" cy="152.17" r="3.1525" fill="url(#c)"/>
+<circle cx="87.627" cy="150.34" r="3.1525" fill="url(#d)"/>
+<circle cx="98.203" cy="148.71" r="3.1525" fill="url(#e)"/>
+<circle cx="109.19" cy="147.02" r="3.1525" fill="url(#f)"/>
+<circle cx="119.9" cy="145.25" r="3.1525" fill="url(#g)"/>
+<circle cx="130.75" cy="143.56" r="3.1525" fill="url(#h)"/>
+<circle cx="141.25" cy="141.66" r="3.1525" fill="url(#i)"/>
+<circle cx="152.24" cy="140.03" r="3.1525" fill="url(#j)"/>
+<circle cx="163.15" cy="138.54" r="3.1525" fill="url(#k)"/>
+<circle cx="173.8" cy="136.64" r="3.1525" fill="url(#l)"/>
+<circle cx="184.44" cy="134.88" r="3.1525" fill="url(#m)"/>
+<circle cx="195.08" cy="133.25" r="3.1525" fill="url(#n)"/>
+<circle cx="206.07" cy="131.76" r="3.1525" fill="url(#o)"/>
+<circle cx="216.71" cy="129.93" r="3.1525" fill="url(#p)"/>
+<circle cx="227.42" cy="128.1" r="3.1525" fill="url(#q)"/>
+<circle cx="238" cy="126.47" r="3.1525" fill="url(#r)"/>
+</g>
+<g transform="translate(680.57 -133.12)">
+<circle cx="76.847" cy="152.17" r="3.1525" fill="url(#c)"/>
+<circle cx="87.627" cy="150.34" r="3.1525" fill="url(#d)"/>
+<circle cx="98.203" cy="148.71" r="3.1525" fill="url(#e)"/>
+<circle cx="109.19" cy="147.02" r="3.1525" fill="url(#f)"/>
+<circle cx="119.9" cy="145.25" r="3.1525" fill="url(#g)"/>
+<circle cx="130.75" cy="143.56" r="3.1525" fill="url(#h)"/>
+<circle cx="141.25" cy="141.66" r="3.1525" fill="url(#i)"/>
+<circle cx="152.24" cy="140.03" r="3.1525" fill="url(#j)"/>
+<circle cx="163.15" cy="138.54" r="3.1525" fill="url(#k)"/>
+<circle cx="173.8" cy="136.64" r="3.1525" fill="url(#l)"/>
+<circle cx="184.44" cy="134.88" r="3.1525" fill="url(#m)"/>
+<circle cx="195.08" cy="133.25" r="3.1525" fill="url(#n)"/>
+<circle cx="206.07" cy="131.76" r="3.1525" fill="url(#o)"/>
+<circle cx="216.71" cy="129.93" r="3.1525" fill="url(#p)"/>
+<circle cx="227.42" cy="128.1" r="3.1525" fill="url(#q)"/>
+</g>
+<path d="m577.18 36.435 337.24-53.496" fill="none" stroke="#b19622" stroke-width="2"/>
+<path d="m631.4 377.8 2.4749 8.4853 335.23-54.26-0.35355-7.0711z" fill="url(#t)"/>
+</g>
+</svg>

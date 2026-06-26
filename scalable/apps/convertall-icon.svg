@@ -1,0 +1,40 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient id="radialGradient908" cx="16.937" cy="3.2428" r="14.544" gradientTransform="matrix(4.4792 0 0 2.0392 -58.927 -3.3698)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ffe447" offset="0"/>
+<stop stop-color="#ffb702" offset="1"/>
+</radialGradient>
+</defs>
+<g transform="matrix(.97573 0 0 .97573 -65.587 -37.192)" fill="none" opacity=".29676" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".02">
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".1"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".3"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".5"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".7"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3.4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3.8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="4.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="4.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="5"/>
+</g>
+<rect x="2.5579" y="2.5293" width="29.087" height="29.087" rx="6.4495" ry="6.4495" fill="url(#radialGradient908)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6877"/>
+<path d="m20.587 23.557a3.753 2.8136 0 0 0-0.0068 0.1049 3.753 2.8136 0 0 0 3.753 2.8141 3.753 2.8136 0 0 0 3.753-2.8141 3.753 2.8136 0 0 0-0.0046-0.1049z" fill="#fff" fill-opacity=".92237" stroke-width=".417"/>
+<path d="m20.872 23.674 3.7615-11.311 3.1606 11.311" fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-opacity=".83649" stroke-width=".58379"/>
+<path d="m6.4089 20.221a3.753 2.8136 0 0 0-0.0068 0.1049 3.753 2.8136 0 0 0 3.753 2.8141 3.753 2.8136 0 0 0 3.753-2.8141 3.753 2.8136 0 0 0-0.0046-0.1049z" fill="#fff" fill-opacity=".93068" stroke-width=".417"/>
+<path d="m26.739 23.557-4.8-6e-3s1.158-2.9179 2.4168-2.9129c1.2589 5e-3 2.3831 2.9189 2.3831 2.9189z" fill="#fff" fill-opacity=".56647" stroke-width=".417"/>
+<path d="m10.052 8.0186a0.55669 0.55669 0 0 0-0.54415 0.4284 0.55669 0.55669 0 0 0 0.41393 0.66818l5.7852 1.3591v17.11c0 0.81395 0.65573 1.4697 1.4697 1.4697 0.81395 0 1.4692-0.65573 1.4692-1.4697v-16.419l6.1547 1.4459a0.55669 0.55669 0 0 0 0.67024-0.41393 0.55669 0.55669 0 0 0-0.41393-0.66973l-14.881-3.4944a0.55669 0.55669 0 0 0-0.12351-0.014469z" color="#000000" fill="#fff" stroke-linecap="round" style="-inkscape-stroke:none"/>
+<path d="m6.694 20.338 3.3445-11.477 3.5776 11.477" fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-opacity=".87926" stroke-width=".58379"/>
+<path d="m7.5947 20.403s0.80578-1.3818 2.5405-1.3517c1.7348 0.03005 2.529 1.4601 2.529 1.4601z" fill="#fff" fill-opacity=".66944"/>
+</svg>

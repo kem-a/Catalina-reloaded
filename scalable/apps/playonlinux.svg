@@ -1,0 +1,11 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient840" x1="1.4453" x2="127.22" y1="64.226" y2="64.226" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ff94a7" offset="0"/>
+<stop stop-color="#aae0b8" offset=".5"/>
+<stop stop-color="#9abfe2" offset="1"/>
+</linearGradient>
+</defs>
+<path d="m64.334 1.3385c-34.705 0-62.888 28.182-62.888 62.887 0 34.705 28.184 62.888 62.888 62.888 34.705 0 62.887-28.184 62.887-62.888 0-34.705-28.182-62.887-62.887-62.887z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient840)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m64.332 7.4629a56.764 56.764 0 0 0-56.764 56.764 56.764 56.764 0 0 0 56.764 56.764 56.764 56.764 0 0 0 56.766-56.764 56.764 56.764 0 0 0-56.766-56.764zm8.4336 28.654c0.51114-0.014394 1.0377 0.049232 1.582 0.19531 1.1761 0.31561 2.4306 1.0221 3.7461 2.1914 2.9028 2.5853 3.7675 4.8462 3.5977 6.7578 1.8823-0.38762 4.2378 0.21531 7.1406 2.793 6.8966 6.1252-1.0089 12.809-10.979 15.494 10.328 1.3315 19.023 6.7659 12.266 14.34-2.5878 2.8935-4.8541 3.7594-6.7695 3.5879 0.38996 1.879-0.21235 4.226-2.791 7.1211-5.9897 6.7178-12.537-0.65431-15.354-10.275-1.6762 9.8789-7.3182 17.951-14.051 11.963-2.8989-2.5807-3.768-4.8449-3.5996-6.7559-1.8826 0.38906-4.2358-0.21079-7.1445-2.7891-7.5835-6.7404 0.38169-13.125 10.465-15.637-10.198-1.5356-18.791-7.2783-12.664-14.143 2.5839-2.8912 4.8507-3.7594 6.7656-3.5898-0.39173-1.8793 0.20651-4.2257 2.7871-7.125 6.9485-7.7885 13.514 0.8846 15.873 11.367 0.84445-8.0518 4.1879-15.357 9.1289-15.496zm-8.5703 28.025c-0.011099 0.06394-0.0138 0.13369-0.02539 0.19727 0.01864 0.0031 0.037891 0.002659 0.05664 0.005859-0.01944-0.067205-0.021349-0.13578-0.03125-0.20312z" fill="#fff"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="25.6" height="25.6" version="1.1" viewBox="0 0 25.6 25.6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient827" x1="1.3017" x2="16.054" y1="1.6271" y2="17.464" gradientUnits="userSpaceOnUse">
+<stop stop-color="#eebc2d" offset="0"/>
+<stop stop-color="#e69e1f" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient837" x1="4.6644" x2="20.339" y1="5.0983" y2="21.207" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5b321c" offset="0"/>
+<stop stop-color="#371e11" offset="1"/>
+</linearGradient>
+</defs>
+<rect x=".75932" y=".8678" width="23.973" height="23.973" fill="url(#linearGradient827)" style="paint-order:fill markers stroke"/>
+<path d="m2.6034 2.7661h20.068v20.068h-20.068z" fill="url(#linearGradient837)" style="paint-order:fill markers stroke"/>
+<path d="m2.6035 2.7656v20.068h20.068v-20.068h-20.068zm0.40625 0.4082h19.254v19.254h-19.254v-19.254z" fill-opacity=".26374" style="paint-order:fill markers stroke"/>
+<g transform="scale(.96272 1.0387)" fill="#e4ac34" stroke-width=".25907px" aria-label="Ai">
+<path d="m10.857 12.998 0.23834-0.82902c0.21762-0.71503 0.41451-1.4819 0.60104-2.2383h0.04145c0.19689 0.74611 0.39378 1.5233 0.6114 2.2383l0.23834 0.82902zm2.5285 2.7772h1.2642l-2.2073-6.7772h-1.4093l-2.2073 6.7772h1.2228l0.5285-1.8342h2.2798z"/>
+<path d="m15.986 9.796c0.42487 0 0.73575-0.27979 0.73575-0.67357 0-0.40414-0.31088-0.68394-0.73575-0.68394s-0.73575 0.27979-0.73575 0.68394c0 0.39378 0.31088 0.67357 0.73575 0.67357zm-0.60104 5.9793h1.1917v-5.0881h-1.1917z"/>
+</g>
+</svg>

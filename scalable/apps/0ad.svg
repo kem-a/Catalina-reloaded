@@ -1,0 +1,10 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient823" x1="68.463" x2="68.287" y1="23.819" y2="121.01" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fa6856" offset="0"/>
+<stop stop-color="#f82209" offset="1"/>
+</linearGradient>
+</defs>
+<circle cx="68.953" cy="68.366" r="64.022" fill="url(#linearGradient823)" stroke="#eee" stroke-width="6"/>
+<path d="m68.946 36.717a4.0004 4.0004 0 0 0-3.7188 2.5449l-20.217 51.787h-0.35742c-2.4839 0-4.4824 1.9985-4.4824 4.4824 0 2.4839 1.9985 4.4844 4.4824 4.4844h6.0762c2.4839 0 4.4824-2.0005 4.4824-4.4844 0-1.5304-0.76239-2.8717-1.9258-3.6797l15.666-40.137 15.668 40.137c-1.164 0.80797-1.9277 2.1493-1.9277 3.6797 0 2.4839 2.0005 4.4844 4.4844 4.4844h6.0742c2.4839 0 4.4844-2.0005 4.4844-4.4844 0-2.4839-2.0005-4.4824-4.4844-4.4824h-0.35547l-20.217-51.787a4.0004 4.0004 0 0 0-3.7324-2.5449z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

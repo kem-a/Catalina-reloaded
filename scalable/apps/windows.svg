@@ -1,0 +1,29 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient4186" x1="30.858" x2="116.88" y1="16.587" y2="116.38" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f5f5f5" offset="0"/>
+<stop stop-color="#ebeae6" offset="1"/>
+</linearGradient>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<linearGradient id="linearGradient4601" x1="84.432" x2="61.475" y1="93.866" y2="13.866" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0a9ddf" offset="0"/>
+<stop stop-color="#56c5f7" stop-opacity=".9924" offset="1"/>
+</linearGradient>
+</defs>
+<circle cx="68.953" cy="68.366" r="64.022" fill="url(#linearGradient4601)" stroke="url(#linearGradient4186)" stroke-width="6"/>
+<path d="m41.837 49.567 20.771-2.8287 0.0091 20.035-20.761 0.11823zm20.761 19.515 0.01612 20.052-20.761-2.8543-0.0012-17.333zm2.5179-22.713 27.54-4.0194v24.17l-27.54 0.21864zm27.547 22.902-0.0065 24.061-27.54-3.887-0.03859-20.219z" fill="#fff" stroke-width=".58202"/>
+</svg>

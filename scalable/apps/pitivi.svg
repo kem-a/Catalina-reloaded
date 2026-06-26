@@ -1,0 +1,51 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1410">
+<stop stop-color="#e2edf3" offset="0"/>
+<stop stop-color="#c1d0e4" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1412" x1="49.584" x2="64.439" y1="272.99" y2="282.68" gradientTransform="matrix(1.0174 4.3377e-6 4.3377e-6 1.0174 -1.0888 -4.3573)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1410"/>
+<linearGradient id="linearGradient1424" x1="17.108" x2="25.768" y1="269.74" y2="291.97" gradientTransform="matrix(1.0174 4.3377e-6 4.3377e-6 1.0174 -.32571 -4.5954)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9c47f7" offset="0"/>
+<stop stop-color="#4724bf" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1477" x1="49.584" x2="64.439" y1="272.99" y2="282.68" gradientTransform="matrix(1.0174 4.3377e-6 4.3377e-6 1.0174 3.8917 -.45316)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1410"/>
+<linearGradient id="linearGradient1483" x1="49.584" x2="64.439" y1="272.99" y2="282.68" gradientTransform="matrix(1.0174 -4.3377e-6 -4.3377e-6 1.0174 3.893 -4.7806)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1410"/>
+<linearGradient id="linearGradient1489" x1="49.584" x2="64.439" y1="272.99" y2="282.68" gradientTransform="matrix(1.0174 4.3377e-6 4.3377e-6 1.0174 -1.0888 -4.359)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1410"/>
+</defs>
+<g transform="translate(0 -263.13)">
+<g transform="matrix(.98287 0 0 .9829 .29004 4.5544)" stroke-width="1.0174">
+<path transform="matrix(.96022 -.15208 .15208 .96022 -41.118 13.486)" d="m28.756 295.28-10.993-4.86-10.236 6.3008 1.225-11.957-9.1554-7.7878 11.75-2.5299 4.5774-11.114 6.0371 10.393 11.984 0.919-8.0192 8.9534z" opacity=".25"/>
+<path transform="matrix(.96022 -.15208 .15208 .96022 -41.118 12.957)" d="m28.756 295.28-10.993-4.86-10.236 6.3008 1.225-11.957-9.1554-7.7878 11.75-2.5299 4.5774-11.114 6.0371 10.393 11.984 0.919-8.0192 8.9534z" fill="#d2e2f6" stroke="#98a3b2" stroke-linecap="round" stroke-linejoin="round" stroke-width=".10465"/>
+<path transform="matrix(.80781 -.12794 .12794 .80781 -31.903 55.355)" d="m28.756 295.28-10.993-4.86-10.236 6.3008 1.225-11.957-9.1554-7.7878 11.75-2.5299 4.5774-11.114 6.0371 10.393 11.984 0.919-8.0192 8.9534z" fill="url(#linearGradient1424)"/>
+<g transform="matrix(.51261 -.081189 .081189 .51261 -35.393 143.55)" opacity=".25" stroke-width="1.9603">
+<rect x="49.912" y="270.12" width="14.526" height="12.568" ry="1.7629" opacity="1"/>
+<path d="m49.2 272.99c-0.19802 0-0.35746 0.15933-0.35746 0.35735v0.99881c0 0.198 0.15944 0.35745 0.35746 0.35745h0.38338v-1.7136z" opacity="1"/>
+<g transform="translate(0 -.093795)" stroke-width="1.9603">
+<g transform="matrix(.20904 0 0 .20904 109.1 245.05)">
+<path d="m-211.18 141.81v16.761l22.521-5.6332-0.0367-26.37z" opacity="1"/>
+<rect x="-187.12" y="126.52" width="3.4244" height="27.686" ry="0" opacity="1"/>
+</g>
+<g transform="matrix(.20904 0 0 -.20904 109.1 307.93)">
+<path d="m-211.18 141.81v16.761l22.521-5.6332-0.0367-26.37z" opacity="1"/>
+<rect x="-187.12" y="126.52" width="3.4244" height="27.686" ry="0" opacity="1"/>
+</g>
+</g>
+</g>
+<g transform="matrix(.51261 -.081189 .081189 .51261 -35.393 143.02)" fill="url(#linearGradient1412)" stroke-width="1.9603">
+<rect x="49.912" y="270.12" width="14.526" height="12.568" ry="1.7629" fill="url(#linearGradient1412)"/>
+<path d="m49.2 272.99c-0.19802 0-0.35746 0.15933-0.35746 0.35735v0.99881c0 0.198 0.15944 0.35745 0.35746 0.35745h0.38338v-1.7136z" fill="url(#linearGradient1412)"/>
+<g transform="translate(0 -.093795)" stroke-width="1.9603">
+<g transform="matrix(.20904 0 0 .20904 109.1 245.05)" fill="url(#linearGradient1477)">
+<path d="m-211.18 141.81v16.761l22.521-5.6332-0.0367-26.37z"/>
+<rect x="-187.12" y="126.52" width="3.4244" height="27.686" ry="0"/>
+</g>
+<g transform="matrix(.20904 0 0 -.20904 109.1 307.93)" fill="url(#linearGradient1483)">
+<path d="m-211.18 141.81v16.761l22.521-5.6332-0.0367-26.37z"/>
+<rect x="-187.12" y="126.52" width="3.4244" height="27.686" ry="0"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

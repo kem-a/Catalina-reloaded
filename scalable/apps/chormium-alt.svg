@@ -1,0 +1,36 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient825" x1="-741.83" x2="-741.83" y1="959.05" y2="93.836" gradientTransform="matrix(.13668 0 0 .13668 162.31 -5.9893)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#244988" offset="0"/>
+<stop stop-color="#275ab0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient835" x1="-462.07" x2="-772.44" y1="752.03" y2="93.205" gradientTransform="matrix(.13668 0 0 .13668 162.31 -5.9893)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#c1d7fd" offset="0"/>
+<stop stop-color="#275ab0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient867" x1="34.586" x2="65.359" y1="94.741" y2="69.946" gradientUnits="userSpaceOnUse">
+<stop stop-color="#548dee" offset="0"/>
+<stop stop-color="#548dee" stop-opacity="0" offset="1"/>
+</linearGradient>
+<radialGradient id="radialGradient883" cx="67.009" cy="65.588" r="31.322" gradientTransform="matrix(.94805 .0090238 -.0087762 .92204 .23259 3.3428)" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</radialGradient>
+<radialGradient id="radialGradient896" cx="63.592" cy="64.286" r="18.983" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0" offset="0"/>
+<stop stop-opacity="0" offset=".7"/>
+<stop stop-opacity=".0078431" offset=".734"/>
+<stop stop-opacity=".015686" offset=".78936"/>
+<stop stop-opacity=".031373" offset=".82328"/>
+<stop stop-opacity=".043137" offset=".85186"/>
+<stop stop-opacity=".066667" offset=".88578"/>
+<stop stop-opacity=".21244" offset="1"/>
+</radialGradient>
+</defs>
+<circle cx="63.592" cy="64.286" r="61.38" fill="url(#linearGradient825)"/>
+<circle cx="63.592" cy="64.286" r="55.09" fill="url(#linearGradient835)"/>
+<circle cx="63.592" cy="64.286" r="55.09" fill="url(#linearGradient867)"/>
+<path d="m63.592 32.965a31.322 31.322 0 0 0-31.322 31.322 31.322 31.322 0 0 0 31.322 31.32 31.322 31.322 0 0 0 31.322-31.32 31.322 31.322 0 0 0-31.322-31.322zm0 11.797a19.729 19.525 0 0 1 19.729 19.525 19.729 19.525 0 0 1-19.729 19.525 19.729 19.525 0 0 1-19.729-19.525 19.729 19.525 0 0 1 19.729-19.525z" fill="url(#radialGradient883)"/>
+<circle cx="63.592" cy="64.286" r="18.983" fill="url(#radialGradient896)"/>
+<path d="m63.592 39.809c-13.483 0-24.477 10.996-24.477 24.479s10.994 24.477 24.477 24.477 24.477-10.994 24.477-24.477-10.994-24.479-24.477-24.479zm0 6c10.24 0 18.477 8.2385 18.477 18.479 0 10.24-8.2365 18.477-18.477 18.477s-18.477-8.2365-18.477-18.477c0-10.24 8.2365-18.479 18.477-18.479z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

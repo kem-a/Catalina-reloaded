@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<linearGradient id="a" x1="476.86" x2="476.36" y1="112.16" y2="162.63" gradientTransform="matrix(5.2904 6e-8 -6e-8 5.2904 -2379.8 -500.04)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#e5bd85" offset="0"/>
+<stop stop-color="#db913c" offset="1"/>
+</linearGradient>
+<filter id="b" x="-.38566" y="-.29393" width="1.7713" height="1.5879" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="23.130703"/>
+</filter>
+<rect transform="matrix(.99768 .068112 -.068112 .99768 0 0)" x="292.9" y="4.1388" width="195.15" height="411.66" ry="25.079" fill="#e39234"/>
+<path transform="matrix(.99768 .068112 -.068112 .99768 0 0)" d="m290.88 24.843h176.12v367.26h-176.12z" fill="#fff"/>
+<path transform="matrix(8.4544 -5.3538 5.3538 8.4544 -6031.1 -1954.1)" d="m420.91 541.36-10.562-7.9019 12.124-5.1962z" fill="#c5771d"/>
+<path transform="matrix(.99722 .074577 -.074577 .99722 0 0)" d="m331.81 58.095h118.08v118.08h-118.08z" fill="#d37e1c"/>
+<path transform="matrix(.98865 -.15021 .15021 .98865 0 0)" d="m16.549 49.945h298.99v464.95h-298.99z" fill="url(#a)"/>
+<g transform="matrix(.99032 -.1388 .1388 .99032 0 0)" font-family="TeX Gyre Heros Cn" font-size="242" font-stretch="condensed" font-weight="bold" letter-spacing="0" stroke-width="2.5208" word-spacing="0">
+<text x="101.36855" y="369.62732" fill="#9f530d" filter="url(#b)"><tspan x="101.36855" y="369.62732" fill="#9f530d" stroke-width="2.5208">D</tspan></text>
+<text x="101.36855" y="369.62732" fill="#fff"><tspan x="101.36855" y="369.62732" stroke-width="2.5208">D</tspan></text>
+</g>
+</svg>

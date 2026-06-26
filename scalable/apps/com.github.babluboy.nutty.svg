@@ -1,0 +1,44 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<linearGradient id="linearGradient948" x1="122.34" x2="84.091" y1="117.04" y2="71.02" gradientTransform="matrix(.26458 0 0 .26458 -73.214 269.23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient944"/>
+<linearGradient id="linearGradient944">
+<stop stop-color="#d5dada" offset="0"/>
+<stop stop-color="#f1f1f1" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient993" x1="-39.014" x2="-21.756" y1="265.76" y2="285.73" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#f0f0f0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1001" x1="-27.415" x2="-28.241" y1="293.27" y2="266.7" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2da895" offset="0"/>
+<stop stop-color="#31c1bd" offset="1"/>
+</linearGradient>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<linearGradient id="linearGradient1194" x1="122.34" x2="84.091" y1="117.04" y2="71.02" gradientTransform="matrix(.26458 0 0 .26458 -114.23 271.81)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient944"/>
+</defs>
+<g transform="translate(0 -263.13)">
+<g transform="matrix(.97507 -.15 .15 .97507 22.55 10.715)" fill="none" opacity=".389" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".039216">
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".15" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".3" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".45" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".6" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".85" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" style="paint-order:fill markers stroke"/>
+</g>
+<rect transform="rotate(-8.764)" x="-40.457" y="264.37" width="25.483" height="29.169" rx="1.4229" ry="1.4229" fill="url(#linearGradient993)" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-8.764)" x="-39.014" y="265.76" width="22.702" height="26.092" rx="1.4229" ry="1.4229" fill="url(#linearGradient1001)" style="paint-order:fill markers stroke"/>
+<path transform="matrix(.26458 0 0 .26458 0 263.13)" d="m98.523 72.387a26.842 27.399 7.696e-6 0 0-5.3516 0.28711 26.842 27.399 7.696e-6 0 0-22.449 31.246 26.842 27.399 7.696e-6 0 0 5.1992 12.422l31.871-4.9141c2.9446-0.45394 4.95-3.1902 4.4961-6.1348l-4.75-30.809a26.842 27.399 7.696e-6 0 0-9.0156-2.0977z" fill="#343434" fill-opacity=".20455" opacity=".097" style="paint-order:fill markers stroke"/>
+<path d="m15.158 270.74a1.6401 1.6401 0 0 0-1.64 1.64 1.6401 1.6401 0 0 0 0.05327 0.40698c-1.2213 0.70429-2.4076 1.4066-3.5963 2.1084a1.6401 1.6401 0 0 0-0.38472-0.31021 1.6401 1.6401 0 0 0-0.89723-0.21815 1.6401 1.6401 0 0 0-1.343 0.81833 1.6401 1.6401 0 0 0 0.60018 2.2402 1.6401 1.6401 0 0 0 0.56073 0.19725c6.56e-5 1.3969 6.39e-5 2.7916 0 4.1884a1.6401 1.6401 0 0 0-0.56073 0.19725 1.6401 1.6401 0 0 0-0.60018 2.2402 1.6401 1.6401 0 0 0 2.2402 0.60018 1.6401 1.6401 0 0 0 0.39079-0.31492c1.1978 0.69873 2.3955 1.3975 3.5933 2.0962a1.6401 1.6401 0 0 0-0.05631 0.42384 1.6401 1.6401 0 0 0 1.64 1.64 1.6401 1.6401 0 0 0 1.64-1.64 1.6401 1.6401 0 0 0-0.05766-0.42384c1.1983-0.69902 2.3967-1.3979 3.595-2.0969a1.6401 1.6401 0 0 0 0.38978 0.31594 1.6401 1.6401 0 0 0 2.2406-0.60052 1.6401 1.6401 0 0 0-0.60052-2.2402 1.6401 1.6401 0 0 0-0.56107-0.19759c-4.6e-5 -1.3962-4.6e-5 -2.7902 0-4.1864a1.6401 1.6401 0 0 0 0.56107-0.1986 1.6401 1.6401 0 0 0 0.60052-2.2406 1.6401 1.6401 0 0 0-1.459-0.81968 1.6401 1.6401 0 0 0-0.78158 0.2195 1.6401 1.6401 0 0 0-0.39045 0.31493c-1.1976-0.69865-2.3953-1.3972-3.593-2.0959a1.6401 1.6401 0 0 0 0.05631-0.42417 1.6401 1.6401 0 0 0-1.64-1.64zm-1.1558 2.8026a1.6401 1.6401 0 0 0 0.72392 0.41912v4.0886a1.6401 1.6401 0 0 0-0.73033 0.42451l-3.6378-2.0649a1.6401 1.6401 0 0 0 0.01517-0.74449c1.2037-0.70888 2.4019-1.4166 3.6291-2.1229zm2.3036 7e-3c1.212 0.70698 2.4241 1.4139 3.6361 2.1209a1.6401 1.6401 0 0 0 0.0145 0.74078l-3.6365 2.0639a1.6401 1.6401 0 0 0-0.72966-0.42586v-4.089a1.6401 1.6401 0 0 0 0.71549-0.41067zm4.0782 3.6112a1.6401 1.6401 0 0 0 0.55736 0.36786c-5.3e-5 1.4537-4.8e-5 2.9235 0 4.3773a1.6401 1.6401 0 0 0-0.53443 0.34426l-3.6682-2.1819a1.6401 1.6401 0 0 0 0.05934-0.43732 1.6401 1.6401 0 0 0-0.05294-0.40461zm-10.452 6.5e-4 3.6378 2.0646a1.6401 1.6401 0 0 0-0.05226 0.40495 1.6401 1.6401 0 0 0 0.06103 0.43665l-3.6702 2.1829a1.6401 1.6401 0 0 0-0.53375-0.34426c7.94e-5 -1.4534 6.39e-5 -2.9229 0-4.3762a1.6401 1.6401 0 0 0 0.55736-0.36854zm6.3636 3.6479 3.6705 2.1829a1.6401 1.6401 0 0 0-0.02529 0.77214c-1.2113 0.70675-2.4228 1.4134-3.6341 2.1202a1.6401 1.6401 0 0 0-0.71684-0.41203v-4.2616a1.6401 1.6401 0 0 0 0.70572-0.40158zm-2.2776 6.6e-4a1.6401 1.6401 0 0 0 0.70774 0.40259v4.2613a1.6401 1.6401 0 0 0-0.7165 0.41137c-1.212-0.7072-2.4238-1.4144-3.6358-2.1215a1.6401 1.6401 0 0 0-0.0236-0.77146z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</g>
+</svg>

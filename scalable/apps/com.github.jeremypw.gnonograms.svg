@@ -1,0 +1,15 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1080" x1="701.81" x2="699.28" y1="398.37" y2="220.53" gradientTransform="matrix(.66355 0 0 .66355 -399.67 -144.99)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#cccdd1" offset="0"/>
+<stop stop-color="#f7f9f9" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient4543" x1="66.517" x2="64.334" y1="120.59" y2="5.9834" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1c65ff" offset="0"/>
+<stop stop-color="#4acfff" offset="1"/>
+</linearGradient>
+</defs>
+<circle cx="64.333" cy="64.226" r="60.566" fill="url(#linearGradient4543)" stroke="#cccdd1" stroke-width="4.6449"/>
+<path d="m64.334 1.3385c-34.705 0-62.888 28.182-62.888 62.887 0 34.705 28.184 62.888 62.888 62.888 34.705 0 62.887-28.184 62.887-62.888 0-34.705-28.182-62.887-62.887-62.887zm0 4.6449c32.194 0 58.242 26.048 58.242 58.242 0 32.194-26.048 58.243-58.242 58.243-32.194 0-58.243-26.049-58.243-58.243 0-32.194 26.049-58.242 58.243-58.242z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient1080)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m78.87 42.72c-38.35 0.07691-33.766 56.963-55.668 44.872 1.1076 4.4101 4.9741 6.5354 10.449 7.3287 2.1279-4.2635 4.5928-10.039 11.418-10.052 1.9576-4e-3 4.2744 0.46688 7.0441 1.5839-5.5671-0.69991-7.2742 4.4234-6.5596 8.6179 1.3431-0.0966 2.7125-0.21558 4.1128-0.35948 2.7195-5.4764 6.0877-13.208 18.359-8.2584-4.7732-0.60011-6.7062 3.0809-6.7106 6.7867 1.7983-0.25112 3.5925-0.49838 5.3864-0.74582 2.6341-5.0545 6.5648-10.345 17.237-6.0409-3.8714-0.48672-5.8737 1.8454-6.4963 4.7214 4.2195-0.41366 8.2017-0.63112 11.721-0.46485-13.423-7.488-14.529-46.284 12.286-42.912-8.8788-3.5809-16.303-5.0894-22.579-5.0768z" fill="#fff"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3191" x1="18.657" x2="18.657" y1="-994.49" y2="-1002" gradientTransform="matrix(2.7392 0 0 1.668 -1.0879 716.58)" gradientUnits="userSpaceOnUse">
+<stop stop-opacity=".5" offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient3202" x1="76.336" x2="89.958" y1="981.66" y2="981.66" gradientTransform="matrix(2.7392 0 0 2.7392 -1.0879 -1781.8)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1a1a1a" stop-opacity=".75" offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(0 -844.36)">
+<rect x="8.4994" y="850.21" width="243.79" height="243.79" rx="29.023" ry="29.023" opacity=".05"/>
+<g transform="matrix(2.7392 0 0 2.7392 -1.0879 -1781.8)">
+<rect x="4" y="961.36" width="88" height="88" rx="10.476" ry="10.476" opacity=".05"/>
+<rect x="4.5" y="961.86" width="87" height="87" rx="10.357" ry="10.357" opacity=".05"/>
+<rect x="5" y="962.36" width="86" height="86" rx="10.238" ry="10.238" opacity=".1"/>
+<rect x="5.5" y="962.86" width="85" height="85" rx="10.119" ry="10.119" opacity=".1"/>
+<rect x="6" y="963.36" width="84" height="84" rx="10" ry="10" opacity=".3"/>
+</g>
+<rect x="15.348" y="854.32" width="230.1" height="230.1" rx="27.392" ry="27.392" fill="#fafafa"/>
+<rect x="86.568" y="968.69" width="158.88" height="2.7392" rx="0" ry="0" fill="#d5d5d5"/>
+<rect x="86.568" y="1011.1" width="158.88" height="2.7392" rx="0" ry="0" fill="#d5d5d5"/>
+<rect x="86.568" y="1053.6" width="158.88" height="2.7392" rx="0" ry="0" fill="#d5d5d5"/>
+<path d="m70.701 870.76c-5.7797 0.30187-7.8475 5.4842-8.4564 11.194 12.325-4.2672 8.4564-11.194 8.4564-11.194zm1.2081 11.279c-3.2651 0.28269-6.7658 1.9128-10.182 5.0881 0 0-13.533-11.566-21.831 1.8657-8.0509 13.032 4.9185 30.868 4.9185 30.868 2.9657 3.5835 8.3382 7.0168 12.339 4.5792 2.6072-1.9528 5.8472-2.0698 9.4056-0.16984 3.1879 2.4861 9.2673 1.4381 12.943-4.0705 2.4903-2.7466 4.376-5.6417 5.6951-8.4804-5.2897-1.8421-9.0604-6.8056-9.0604-12.636 0-5.1218 2.9511-9.5328 7.2483-11.788-2.5928-3.1608-6.1593-5.1536-10.096-5.2577-0.45606 0-0.91419-0.0411-1.3806 0z" fill="#1859e7"/>
+<text x="122.95299" y="916.67755" fill="url(#linearGradient3202)" font-family="Roboto" font-size="32.871px" font-weight="bold" letter-spacing="0px" stroke-width="2.7392" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="122.95299" y="916.67755" fill="url(#linearGradient3202)" font-family="Roboto" font-size="49.306px" font-weight="bold" stroke-width="2.7392" style="line-height:1.25">Menu</tspan></text>
+<rect transform="scale(1,-1)" x="15.348" y="-955.68" width="230.1" height="13.696" fill="url(#linearGradient3191)"/>
+</g>
+</svg>

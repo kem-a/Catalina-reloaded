@@ -1,0 +1,35 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient4042">
+<stop stop-color="#759fc0" offset="0"/>
+<stop stop-color="#5a90ba" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient4034">
+<stop stop-color="#b7dced" offset="0"/>
+<stop stop-color="#99d2ed" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1930" x1="24" x2="24" y1="16.865" y2="39.135" gradientTransform="matrix(.72874 0 0 .72874 1.0205 262.66)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4034"/>
+<linearGradient id="linearGradient1932" x1="14.604" x2="24" y1="28" y2="39.125" gradientTransform="matrix(.72874 0 0 .72874 1.0205 262.66)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4042"/>
+<linearGradient id="linearGradient9248" x1="6.1527" x2="6.1527" y1="263.78" y2="270.86" gradientTransform="translate(-29.066)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#45c6ef" offset="0"/>
+<stop stop-color="#1faae5" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(0 -263.13)">
+<g transform="translate(29.066 -.0027062)">
+<rect x="-24.504" y="264.08" width="24.743" height="32.664" opacity=".25"/>
+<g transform="matrix(.53052 0 0 .53179 -301.14 -11.035)" stroke-width="4.1267"></g>
+<g transform="matrix(.53052 0 0 .53179 -304.02 -11.035)" stroke-width="4.1267"></g>
+<rect x="-24.504" y="263.55" width="24.743" height="32.664" fill="#f2f2f2" stroke="#808080" stroke-linecap="round" stroke-width=".3"/>
+<g transform="translate(-29.237 3.635)">
+<path d="m7.0168 268.29v0.72873h20.177v-0.72873zm0 2.915v0.72873h20.086v-0.72873zm0 2.8694v0.72874h20.131v-0.72874zm0 2.915v0.72874h20.154v-0.72874zm0 2.915v0.72874h20.131v-0.72874zm0 2.915v0.72873h20.154v-0.72873zm0 2.9605v0.72874h20.177v-0.72874zm0 2.915v0.72874h20.086v-0.72874z" fill="#bdc7cd"/>
+<g transform="translate(-1.4049 -3.9387)" fill="url(#linearGradient1930)" opacity=".9" stroke="url(#linearGradient1932)" stroke-width=".2" aria-label="a">
+<path d="m20.057 288.5q-2.3209 1.7942-2.9135 2.074-0.88886 0.41151-1.893 0.41151-1.5637 0-2.5843-1.0699-1.0041-1.0699-1.0041-2.8147 0-1.1028 0.49381-1.9094 0.67488-1.1193 2.3374-2.1069 1.679-0.98763 5.5636-2.4032v-0.59258q0-2.2551-0.72426-3.0946-0.7078-0.83948-2.074-0.83948-1.037 0-1.646 0.55965-0.6255 0.55966-0.6255 1.2839l0.03292 0.9547q0 0.75718-0.39505 1.1687-0.37859 0.41151-1.0041 0.41151-0.60904 0-1.0041-0.42797-0.37859-0.42797-0.37859-1.1687 0-1.4156 1.4485-2.6008t4.0657-1.1852q2.0082 0 3.2921 0.67488 0.97116 0.51027 1.4321 1.5967 0.29629 0.7078 0.29629 2.897v5.1192q0 2.1563 0.0823 2.6501 0.0823 0.47736 0.26337 0.64196 0.19753 0.1646 0.44443 0.1646 0.26337 0 0.46089-0.11522 0.34567-0.21398 1.3333-1.2016v0.92178q-1.8436 2.4691-3.5225 2.4691-0.80656 0-1.2839-0.55966-0.47735-0.55965-0.49381-1.9094zm0-1.0699v-5.7447q-2.4855 0.98763-3.2098 1.3991-1.3004 0.72426-1.86 1.5144t-0.55966 1.7284q0 1.1852 0.7078 1.9752 0.7078 0.77364 1.6296 0.77364 1.251 0 3.2921-1.646z" fill="url(#linearGradient1930)" stroke="url(#linearGradient1932)" stroke-width=".2"/>
+</g>
+</g>
+<path d="m-24.359 263.65v6.335h24.454v-6.335z" fill="url(#linearGradient9248)"/>
+<g transform="matrix(.53602 0 0 .53727 -268.97 -17.699)" stroke-width="4.0845"></g>
+<g transform="matrix(.53602 0 0 .53727 -271.88 -17.699)" stroke-width="4.0845"></g>
+</g>
+</g>
+</svg>

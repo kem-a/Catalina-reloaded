@@ -1,0 +1,18 @@
+<svg enable-background="new 0 0 128 128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+<linearGradient id="a" x1="75.575" x2="74.961" y1="15.992" y2="41.688" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f3f1f3" offset="0"/>
+<stop stop-color="#dcdadc" offset="1"/>
+</linearGradient>
+<filter id="b" x="-.016976" y="-.019155" width="1.034" height="1.0383" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation=".80949148"/>
+</filter>
+<rect x="6.5423" y="15.109" width="114.44" height="101.42" ry="3.5254" fill="#1a1a1a" fill-opacity=".48869" filter="url(#b)"/>
+<rect x="6.5423" y="15.109" width="114.44" height="101.42" ry="3.5254" fill="#fdfdfd"/>
+<path d="m10.069 15.109c-1.9531 0-3.5273 1.5723-3.5273 3.5254v23.553c20.051-0.06356 97.394-0.38393 114.44-0.45508v-23.098c0-1.9531-1.5723-3.5254-3.5254-3.5254z" fill="url(#a)"/>
+<g stroke-width=".4">
+<circle cx="25.11" cy="28.878" r="6.7163" fill="#ff6159" stroke="#e1453f"/>
+<circle cx="46.6" cy="28.878" r="6.7163" fill="#ffbe2f" stroke="#dfa023"/>
+<circle cx="68.091" cy="28.878" r="6.7163" fill="#28ca40" stroke="#1bac2c"/>
+</g>
+<path d="m32.615 58.117c-1.3071 0-2.3594 1.0523-2.3594 2.3594v36.027c0 1.3071 1.0523 2.3594 2.3594 2.3594h45.615c1.3071 0 2.3594-1.0522 2.3594-2.3594v-10.211l2.3848 1.5625 11.033 7.2266c1.4496 0.94928 3.2622-0.2376 3.2617-2.1367v-28.91c-7.1e-4 -1.8984-1.8127-3.0856-3.2617-2.1367l-11.033 7.2285-2.3848 1.5605v-10.211c0-1.3071-1.0523-2.3594-2.3594-2.3594zm21.654 6.7617a13.612 13.612 0 0 1 13.613 13.611 13.612 13.612 0 0 1-13.613 13.611 13.612 13.612 0 0 1-13.611-13.611 13.612 13.612 0 0 1 13.611-13.611z" fill="#cecece"/>
+</svg>

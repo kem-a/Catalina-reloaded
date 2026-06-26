@@ -1,0 +1,21 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient859" x1="7.4754" x2="14.343" y1="72.67" y2="72.67" gradientUnits="userSpaceOnUse">
+<stop stop-color="#838383" offset="0"/>
+<stop stop-color="#eaeaea" offset=".5"/>
+<stop stop-color="#919191" offset="1"/>
+</linearGradient>
+</defs>
+<linearGradient id="a" x1="74.517" x2="74.999" y1="32.149" y2="102" gradientUnits="userSpaceOnUse">
+<stop stop-color="#48bef0" offset="0"/>
+<stop stop-color="#1532b9" stop-opacity=".92941" offset="1"/>
+</linearGradient>
+<path d="m13.698 100.03c31.926-14.61 65.784 21.749 109-2.4673l0.0935-75.637c-20.607 24.304-75.969-8.7992-108.49 3.8541z" fill="url(#a)"/>
+<rect x="7.4754" y="23.291" width="6.8681" height="98.758" rx="1.5685" ry="1.5685" fill="url(#linearGradient859)" style="paint-order:fill markers stroke"/>
+<circle cx="67.019" cy="65.008" r="23.107" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:fill markers stroke"/>
+<path d="m66.441 41.763c-15.553 13.888-14.752 33.521 0 46.237" fill="none" stroke="#fff" stroke-width="2"/>
+<path d="m66.441 41.763c15.553 13.888 14.752 33.521 0 46.237z" fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-width="2"/>
+<path d="m47.364 53.023c7.9914 7.3231 30 7.4063 39.886 0" fill="none" stroke="#fff" stroke-width="2"/>
+<path d="m87.193 77.488c-7.9914-7.3231-30-7.4063-39.886 0" fill="none" stroke="#fff" stroke-width="2"/>
+<path d="m43.529 65.008h46.981" fill="none" stroke="#fff" stroke-width="2"/>
+</svg>

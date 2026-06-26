@@ -1,0 +1,39 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient id="radialGradient870" cx="16.951" cy="2.8905" r="14.544" gradientTransform="matrix(7.6697 0 0 2.6553 -113.06 -4.7848)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#aa5fff" offset="0"/>
+<stop stop-color="#5100ea" offset="1"/>
+</radialGradient>
+<linearGradient id="linearGradient1003" x1="7.08" x2="7.08" y1="11.158" y2="86.29" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#6d1ef1" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="matrix(.97573 0 0 .97573 -65.737 -37.183)" fill="none" opacity=".295" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".02">
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".1"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".3"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".5"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".7"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3.4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3.8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="4.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="4.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="5"/>
+</g>
+<rect x="2.4074" y="2.5392" width="29.087" height="29.087" rx="6.4495" ry="6.4495" fill="url(#radialGradient870)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6877"/>
+<path d="m26.027 18.869-1.806-1.8068-3.6436-3.5513-1.204-1.1838c-1.3307-1.3084-3.5169-1.3084-4.8793 0l-1.204 1.1838-3.6436 3.5513-1.806 1.7756c-1.0139 0.99685-1.0139 2.5856 0 3.5824 1.0139 0.99684 2.6297 0.99684 3.6436 0l1.806-1.7756 1.806 1.7756c1.0139 0.99684 2.6297 0.99684 3.6436 0 1.0139-0.99685 1.0139-2.5856 0-3.5824l3.6119 3.5513c1.0139 0.99684 2.6297 0.99684 3.6436 0 1.0456-0.93454 1.0456-2.5544 0.03169-3.5201z" opacity=".2" stroke-width=".49258"/>
+<path d="m26.027 18.377-1.806-1.8068-3.6436-3.5513-1.204-1.1838c-1.3307-1.3084-3.5169-1.3084-4.8793 0l-1.204 1.1838-3.6436 3.5513-1.806 1.7756c-1.0139 0.99685-1.0139 2.5856 0 3.5824 1.0139 0.99685 2.6297 0.99685 3.6436 0l1.806-1.7756 1.806 1.7756c1.0139 0.99685 2.6297 0.99685 3.6436 0 1.0139-0.99684 1.0139-2.5856 0-3.5824l3.6119 3.5513c1.0139 0.99684 2.6297 0.99684 3.6436 0 1.0456-0.93454 1.0456-2.5544 0.03169-3.5201z" fill="url(#linearGradient1003)" stroke-width=".49258"/>
+</svg>

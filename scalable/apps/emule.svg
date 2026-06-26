@@ -1,0 +1,18 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient859" x1="73.909" x2="79.909" y1="8.694" y2="137.96" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f1f1f1" offset="0"/>
+<stop stop-color="#d9dad9" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient867" x1="68.113" x2="68.113" y1="119.15" y2="8.7812" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0353b9" offset="0"/>
+<stop stop-color="#26b6ea" offset="1"/>
+</linearGradient>
+</defs>
+<filter x="-.069933" y="-.054406" width="1.1399" height="1.1088" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="1.9764485"/>
+</filter>
+<path d="m68.113 2.2168c-36.979 0-67.021 30.042-67.021 67.021 0 36.979 30.042 67.021 67.021 67.021 36.979 0 67.021-30.042 67.021-67.021 0-36.979-30.042-67.021-67.021-67.021z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient859)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m68.113 8.7812c-33.39-2.971e-4 -60.457 27.067-60.457 60.457-2.96e-4 33.39 27.067 60.457 60.457 60.457 33.39 3e-4 60.457-27.067 60.457-60.457 3e-4 -33.39-27.067-60.457-60.457-60.457z" fill="url(#linearGradient867)" style="paint-order:fill markers stroke"/>
+<path d="m69.282 26.544a9.0318 9.0318 0 0 0-9.0217 9.0408 9.0318 9.0318 0 0 0 4.7193 7.9169l-1.8579 12.492a23.925 23.925 0 0 0-3.1292-0.23106 23.925 23.925 0 0 0-12.203 3.3938l-7.3309-13.744a5.5728 5.5728 0 0 0 0.59305-2.5045 5.5728 5.5728 0 0 0-5.5801-5.5664 5.5728 5.5728 0 0 0-5.5664 5.5782 5.5728 5.5728 0 0 0 4.16 5.3804l8.2057 15.384a23.925 23.925 0 0 0-6.1764 16.028 23.925 23.925 0 0 0 23.949 23.9 23.925 23.925 0 0 0 23.899-23.951 23.925 23.925 0 0 0-0.28884-3.4821l18.343-6.496a11.242 11.242 0 0 0 7.9781 3.3216 11.242 11.242 0 0 0 11.23-11.254 11.242 11.242 0 0 0-11.254-11.228 11.242 11.242 0 0 0-11.23 11.252 11.242 11.242 0 0 0 0.13059 1.5975l-17.23 6.1003a23.925 23.925 0 0 0-11.711-11.538l2.0402-13.727a9.0318 9.0318 0 0 0 6.3737-8.6415 9.0318 9.0318 0 0 0-9.0408-9.0217z" fill="#fff" style="paint-order:fill markers stroke"/>
+</svg>

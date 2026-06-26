@@ -1,0 +1,29 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient id="radialGradient1107" cx="-135.71" cy="118.44" r="80" gradientTransform="matrix(.20836 0 0 .20836 -142.32 130.11)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#eda3fe" offset="0"/>
+<stop stop-color="#8859fc" offset="1"/>
+</radialGradient>
+<linearGradient id="linearGradient1115" x1="-137.04" x2="-137.04" y1="46.909" y2="98.338" gradientTransform="matrix(.20836 0 0 .20836 -142.32 130.11)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#db9afa" offset="0"/>
+<stop stop-color="#d56efe" offset="1"/>
+</linearGradient>
+<radialGradient id="radialGradient1123" cx="-135.71" cy="157.54" r="80" gradientTransform="matrix(.20834 .0013106 -.0013056 .20755 -142.12 122.2)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6e6e6d" offset="0"/>
+<stop stop-color="#050503" offset="1"/>
+</radialGradient>
+<radialGradient id="radialGradient1131" cx="-134.95" cy="149.22" r="40.47" gradientTransform="matrix(.23597 0 0 .40906 -138.64 97.912)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7a7a7a" offset="0"/>
+<stop stop-color="#080806" offset="1"/>
+</radialGradient>
+</defs>
+<g transform="translate(0 -263.13)">
+<g transform="matrix(.98367 0 0 .98367 184.74 127.56)" stroke-width="1.0166">
+<circle cx="-170.59" cy="155.32" r="16.669" opacity=".25"/>
+<circle cx="-170.59" cy="154.79" r="16.669" fill="url(#radialGradient1107)"/>
+<path d="m-170.59 138.12a16.669 16.669 0 0 0-16.669 16.669 16.669 16.669 0 0 0 1e-3 0.0406h33.334a16.669 16.669 0 0 0 2e-3 -0.0406 16.669 16.669 0 0 0-16.669-16.669z" fill="url(#radialGradient1123)"/>
+<path d="m-170.59 154.83-8.4329 14.318a16.669 16.669 0 0 0 8.4329 2.3113 16.669 16.669 0 0 0 8.4318-2.313l-2.0772-3.5269z" fill="url(#radialGradient1131)"/>
+<path d="m-170.59 154.72 8.4329-14.318a16.669 16.669 0 0 0-8.4329-2.3113 16.669 16.669 0 0 0-8.4318 2.313l2.0772 3.5269z" fill="url(#linearGradient1115)"/>
+</g>
+</g>
+</svg>

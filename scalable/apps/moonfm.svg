@@ -1,0 +1,49 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1632" x1="132.21" x2="132.21" y1="42.152" y2="70.68" gradientTransform="matrix(.97573 0 0 .97573 -111.78 -37.203)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4a5159" offset="0"/>
+<stop stop-color="#010101" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient2273" x1="32.389" x2="3.3017" y1="30.983" y2="1.8957" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0a74f4" offset="0"/>
+<stop stop-color="#08bc97" stop-opacity=".81871" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient2433" x1="17.19" x2="27.908" y1="21.95" y2="11.233" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ff719a" offset="0"/>
+<stop stop-color="#ffa357" offset="1"/>
+</linearGradient>
+</defs>
+<g stroke-linecap="round" stroke-linejoin="round">
+<g transform="matrix(.97573 0 0 .97573 -65.748 -37.203)" fill="none" opacity=".295" stroke="#000" stroke-opacity=".02">
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".1"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".3"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".5"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".7"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3.4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3.8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="4.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="4.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="5"/>
+</g>
+<rect x="2.3963" y="2.5186" width="29.087" height="29.087" rx="6.4495" ry="6.4495" fill="url(#linearGradient1632)" stroke-width="2.6877"/>
+<g transform="translate(-.90543 .62289)" clip-rule="evenodd" stroke-width=".35792">
+<path d="m23.871 8.5014-13.784 12.4c-0.28359 0.25513-1.3276 1.1661-1.0368 2.2513 0.26555 0.99106 1.0428 1.4112 1.9064 1.4373h13.745c1.1016 0 1.9885-0.88688 1.9885-1.9885v-12.28c0-1.9066-2.2163-2.363-2.8195-1.8204z" fill="url(#linearGradient2433)" style="paint-order:fill markers stroke"/>
+<path d="m11.82 8.5014 13.784 12.4c0.28359 0.25513 1.3276 1.1661 1.0368 2.2513-0.26555 0.99106-1.0428 1.4112-1.9064 1.4373h-13.745c-1.1016 0-1.9885-0.88688-1.9885-1.9885v-12.28c0-1.9066 2.2163-2.363 2.8195-1.8204z" fill="url(#linearGradient2273)" style="paint-order:fill markers stroke"/>
+</g>
+</g>
+<style><![CDATA[.B{clip-path:url(#C)}.C{fill:#3e2723}.D{fill-opacity:.15}.E{fill-opacity:.2}]]></style>
+<style><![CDATA[.B{clip-path:url(#C)}.C{fill:#3e2723}.D{fill-opacity:.15}.E{fill-opacity:.2}]]></style>
+</svg>

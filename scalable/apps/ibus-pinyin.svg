@@ -1,0 +1,28 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient825" x1="-741.83" x2="-741.83" y1="959.05" y2="93.836" gradientTransform="matrix(.1342 0 0 .1342 160.37 -5.4564)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0081f7" offset="0"/>
+<stop stop-color="#3fbdff" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient835" x1="-738.76" x2="-738.76" y1="931.43" y2="152.13" gradientTransform="matrix(.1342 0 0 .1342 160.37 -5.4564)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1f93ff" offset="0"/>
+<stop stop-color="#39bdff" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(-138.41 -15.501)" fill="none" opacity=".445" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".031373">
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width=".5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="1.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="2"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="2.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="3"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="3.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="4"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="4.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="5.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="6.5"/>
+</g>
+<circle cx="63.433" cy="63.547" r="60.269" fill="url(#linearGradient825)"/>
+<circle cx="63.433" cy="63.547" r="54.093" fill="url(#linearGradient835)"/>
+<path d="m82.021 33.634c-1.5545 4.1454-3.3728 8.5451-5.4362 12.173h-19.125v5.0311h6.9529v8.9502c0 1.5545-0.09423 3.3634-0.26379 4.7483h-8.3849v5.0592h7.867c-1.0364 9.1483-4.5694 15.489-10.618 19.973l3.6272 3.891c7.0849-5.1818 11.221-12.813 12.436-23.864h10.533v23.864h5.1818v-23.864h10.175v-5.0592h-10.175v-13.699h8.4793v-5.031h-11.249c1.9031-2.9395 3.7968-6.8116 5.7-10.618zm-39.852 0.16015v10.232h-8.5735v5.1158h8.5735v13.501c-3.2786 1.3849-6.482 2.7604-10.269 4.1454l1.8089 5.4361c3.109-1.2059 5.7-2.4119 8.4604-3.6272v16.318c0 2.0727-0.43337 3.109-1.3001 3.109-2.4119 0-4.3998-0.34859-6.642-1.0364l1.0364 5.4362c2.0727 0.51818 3.9757 0.78198 6.3876 0.78198 2.0727 0 3.5425-0.51818 4.3998-1.5545 0.86677-1.0364 1.1871-2.8546 1.1871-5.4362v-20.199l7.9611-4.1454-0.78199-4.6636c-2.2422 1.0364-4.9369 2.1575-7.1791 3.3634v-11.438h8.5264v-5.1063h-8.5264v-10.232zm24.308 0.62182-5.1723 1.5545c1.9031 2.4119 3.3634 5.1818 4.3998 8.2908l5.4362-1.8183a25.061 25.061 0 0 0-4.6541-8.0269zm3.109 16.422h10.024v13.699h-10.269c0.16015-1.2059 0.25437-2.7604 0.25437-3.957z" fill="#f9f9f9" stroke-width="7.9456"/>
+</svg>

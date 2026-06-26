@@ -1,0 +1,24 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient4186" x1="30.858" x2="116.88" y1="16.587" y2="116.38" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f5f5f5" offset="0"/>
+<stop stop-color="#ebeae6" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient4319" x1="66.281" x2="64.944" y1="128.62" y2="16.578" gradientUnits="userSpaceOnUse">
+<stop stop-color="#df0a61" offset="0"/>
+<stop stop-color="#f44e8a" offset="1"/>
+</linearGradient>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+</defs>
+<circle cx="68.953" cy="68.366" r="64.022" fill="url(#linearGradient4319)" stroke="url(#linearGradient4186)" stroke-width="6"/>
+<path d="m46.014 39.357v8.6021h11.469v-8.6021zm34.408 0v8.6021h11.469v-8.6021zm-51.612 5.7347v8.6021h11.469v-8.6021zm68.817 0v8.6021h11.469v-8.6021zm-34.408 5.7347v8.6021h11.469v-8.6021zm-17.204 2.8674v8.6021h11.469v-8.6021zm34.408 0v8.6021h11.469v-8.6021zm-51.612 5.7347v8.6021h11.469v-8.6021zm68.817 0v8.6021h11.469v-8.6021zm-34.408 5.7347v8.6021h11.469v-8.6021zm-17.204 2.8674v8.6021h11.469v-8.6021zm34.408 0v8.6021h11.469v-8.6021zm-51.612 5.7347v8.6021h11.469v-8.6021zm68.817 0v8.6021h11.469v-8.6021zm-34.408 5.7347v8.6021h11.469v-8.6021zm-17.204 2.8674v8.6021h11.469v-8.6021zm34.408 0v8.6021h11.469v-8.6021zm-17.204 11.469v8.6021h11.469v-8.6021z" fill="#fff" stroke="#000" stroke-opacity=".064639" stroke-width="1.5"/>
+<path d="m46.014 39.357v8.6021h11.469v-8.6021zm34.408 0v8.6021h11.469v-8.6021zm-51.612 5.7347v8.6021h11.469v-8.6021zm68.817 0v8.6021h11.469v-8.6021zm-34.408 5.7347v8.6021h11.469v-8.6021zm-17.204 2.8674v8.6021h11.469v-8.6021zm34.408 0v8.6021h11.469v-8.6021zm-51.612 5.7347v8.6021h11.469v-8.6021zm68.817 0v8.6021h11.469v-8.6021zm-34.408 5.7347v8.6021h11.469v-8.6021zm-17.204 2.8674v8.6021h11.469v-8.6021zm34.408 0v8.6021h11.469v-8.6021zm-51.612 5.7347v8.6021h11.469v-8.6021zm68.817 0v8.6021h11.469v-8.6021zm-34.408 5.7347v8.6021h11.469v-8.6021zm-17.204 2.8674v8.6021h11.469v-8.6021zm34.408 0v8.6021h11.469v-8.6021zm-17.204 11.469v8.6021h11.469v-8.6021z" fill="#fff" stroke-width=".35842"/>
+</svg>

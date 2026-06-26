@@ -1,0 +1,32 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient918" x1="-34.72" x2="-16.045" y1="265.45" y2="293.9" gradientTransform="translate(-60.283 -244.6)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#c3d7de" offset="0"/>
+<stop stop-color="#8c9191" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(0 -263.13)">
+<g transform="matrix(.99907 0 0 .99907 99.176 232.21)" stroke-width="1.0009">
+<rect transform="matrix(.98807 -.15398 .16098 .98696 0 0)" x="-101.59" y="20.027" width="25.179" height="29.788" ry="1.5395" opacity=".25"/>
+<rect transform="matrix(.98807 -.15398 .16098 .98696 0 0)" x="-101.51" y="19.504" width="25.179" height="29.788" ry="1.5395" fill="url(#linearGradient918)"/>
+<path d="m-93.127 34.251-2.5077 0.39128c-0.84275 0.13108-1.4107 0.91465-1.2734 1.7564l4.2996 26.36c0.13725 0.84176 0.92623 1.4138 1.7689 1.2824l2.5731-0.4005z" fill="#5f6f73"/>
+<g transform="translate(39.31 .52917)" stroke-width="1.0009">
+<g transform="matrix(.92871 -.15795 .13556 1.0537 0 0)" fill="#4d5a5d" aria-label="F">
+<path d="m-134.96 15.202v7.9563h3.687q1.2688 0 1.851-0.55231 0.59709-0.56724 0.79115-2.2242h0.55231v6.8516h-0.55231q-0.0149-1.1793-0.31347-1.7316-0.28362-0.55231-0.80608-0.821-0.50753-0.28362-1.5226-0.28362h-3.687v6.359q0 1.5375 0.19406 2.0301 0.14927 0.37318 0.62695 0.64188 0.6568 0.35826 1.3733 0.35826h0.73144v0.55231h-8.6877v-0.55231h0.71651q1.2539 0 1.8211-0.73144 0.35826-0.47768 0.35826-2.2988v-13.076q0-1.5375-0.19406-2.0301-0.14927-0.37318-0.61202-0.64188-0.64187-0.35826-1.3733-0.35826h-0.71651v-0.55231h15.062l0.19405 4.4483h-0.52245q-0.38811-1.4181-0.91057-2.0749-0.50753-0.67173-1.2688-0.97028-0.74637-0.29855-2.3287-0.29855z" fill="#4d5a5d" stroke-width=".26483"/>
+</g>
+<g fill="none" stroke="#3f4444">
+<path d="m-129.82 35.204 3.9806 25.1" stroke-dasharray="0.40037256, 0.20018628" stroke-width=".10009"/>
+<path d="m-113.83 32.639 3.9806 25.1" stroke-dasharray="0.40037256, 0.20018628" stroke-width=".10009"/>
+<path d="m-130.99 37.354 19.407-3.1133" stroke-dasharray="0.30027942, 0.10009314" stroke-width=".10009"/>
+<path d="m-127.7 58.662 19.407-3.1133" stroke-dasharray="0.30027942, 0.10009314" stroke-width=".10009"/>
+<circle cx="-127.45" cy="39.143" r="1.5452" stroke-dasharray="0.30027942, 0.10009314" stroke-width=".10009"/>
+<circle cx="-117.45" cy="38.826" r="2.2539" stroke-dasharray="0.30027939, 0.10009311" stroke-width=".10009"/>
+<circle cx="-118.86" cy="42.994" r="2.0404" stroke-dasharray="0.3002794, 0.10009312" stroke-width=".10009"/>
+<circle cx="-118.01" cy="48.453" r="2.0404" stroke-dasharray="0.3002794, 0.10009312" stroke-width=".10009"/>
+<circle cx="-119.31" cy="54.939" r="1.5894" stroke-dasharray="0.3002794, 0.10009312" stroke-width=".10009"/>
+<circle cx="-125.12" cy="56.162" r="1.2971" stroke-dasharray="0.3002794, 0.10009312" stroke-width=".10009"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

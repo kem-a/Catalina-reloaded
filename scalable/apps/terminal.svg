@@ -1,0 +1,9 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+<filter id="a" x="-.029684" y="-.045731" width="1.0594" height="1.0915" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation=".44564704"/>
+</filter>
+<rect x="4.1029" y="12.379" width="119.65" height="105.14" ry="5.9598" fill="#1a1a1a" stroke="#3a3a3a" stroke-width="1.6483"/>
+<path d="m12.377 19.682v88.5h103.25v-88.5h-53.686z" fill="#333"/>
+<path d="m19.963 26.846v4.6357l11.799 4.214-11.799 5.0559v4.8466l18.648-7.7955v-4.214zm18.121 18.121v5.2667h17.91v-4.8466z" filter="url(#a)"/>
+<path d="m19.963 26.846v4.6357l11.799 4.214-11.799 5.0559v4.8466l18.648-7.7955v-4.214zm18.121 18.121v5.2667h17.91v-4.8466z" fill="#fff"/>
+</svg>

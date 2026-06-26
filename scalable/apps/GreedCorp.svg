@@ -1,0 +1,28 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient825" x1="-741.83" x2="-741.83" y1="959.05" y2="93.836" gradientTransform="matrix(.1342 0 0 .1342 160.37 -5.4564)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#d3d7d7" offset="0"/>
+<stop stop-color="#f5f6f6" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient835" x1="-738.76" x2="-738.76" y1="931.43" y2="152.13" gradientTransform="matrix(.1342 0 0 .1342 160.37 -5.4564)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#dadddd" offset="0"/>
+<stop stop-color="#f5f6f6" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(-138.41 -15.501)" fill="none" opacity=".445" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".031373">
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width=".5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="1.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="2"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="2.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="3"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="3.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="4"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="4.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="5.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="6.5"/>
+</g>
+<circle cx="63.433" cy="63.547" r="60.269" fill="url(#linearGradient825)"/>
+<circle cx="63.433" cy="63.547" r="54.093" fill="url(#linearGradient835)"/>
+<path d="m49.548 88.123c-1.9759-1.8074-3.9518-3.6148-5.9277-5.4222 1.0674-5.2629 2.1348-10.526 3.2021-15.789 4.8956-1.5388 9.6807-3.6414 14.82-4.202 2.709 0.7968 4.712 3.1474 6.8894 4.8865 1.7823 1.6255 3.5618 3.254 5.343 4.8807-1.0078 5.3044-2.0155 10.609-3.0233 15.913-5.1251 1.7183-10.25 3.4365-15.375 5.1547-1.9759-1.8074-3.9518-3.6148-5.9277-5.4222zm19.459-22.404c-1.9891-1.8186-3.9781-3.6371-5.9672-5.4557 1.1302-5.0904 1.8354-10.312 3.5819-15.235 4.4466-2.4187 9.4642-3.5501 14.238-5.1886 1.0869-0.6843 1.7065 0.81905 2.5405 1.3188 2.9083 2.7601 6.2328 5.1429 8.6801 8.3393 1.7732 3.1054 0.12853 6.7256-0.394 9.9635-0.47649 2.1453-0.95285 4.2907-1.4293 6.4361-4.956 1.7608-9.8729 3.6408-14.88 5.2504-2.2763-1.5997-4.2819-3.5898-6.3694-5.4289zm-29.407-6.1774c-1.8714-1.7188-3.7428-3.4377-5.6142-5.1565 1.0617-5.1846 2.1234-10.369 3.1852-15.554 5.0678-1.761 10.136-3.522 15.204-5.283 3.9228 3.6351 8.1945 6.9444 11.622 11.071 0.0461 2.7098-0.8349 5.4833-1.2397 8.2049-0.45317 2.364-0.90634 4.728-1.3595 7.0919-5.1147 1.6411-10.153 3.5712-15.38 4.8195-2.3755-1.3751-4.3505-3.3962-6.4166-5.1937z" fill="#666" stroke-width=".80433"/>
+</svg>

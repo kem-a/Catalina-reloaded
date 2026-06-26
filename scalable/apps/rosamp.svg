@@ -1,0 +1,28 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1014" x1="174.79" x2="280.1" y1="250.81" y2="354.68" gradientTransform="matrix(.24529 0 0 .24529 -82.007 204.89)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#d7114a" offset="0"/>
+<stop stop-color="#4f4ce2" offset=".29344"/>
+<stop stop-color="#3df8c5" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1029" x1="238.14" x2="238.14" y1="362.08" y2="278.42" gradientTransform="matrix(.24239 -.037664 .037664 .24239 -49.575 215.05)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#eaeaea" offset="0"/>
+<stop stop-color="#fbfbfb" offset="1"/>
+</linearGradient>
+<filter id="filter1178" x="-.0432" y="-.0432" width="1.0864" height="1.0864" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="0.24341771"/>
+</filter>
+</defs>
+<g transform="translate(0 -263.13)">
+<rect transform="rotate(-8.8325)" x="-39.131" y="264.37" width="25.83" height="29.567" rx="1.4423" ry="1.4423" fill="url(#linearGradient1014)" style="paint-order:fill markers stroke"/>
+<path d="m3.3503 267.02c-0.78957 0.12269-1.3264 0.85705-1.2037 1.6466l0.092529 0.59546c-0.12269-0.78956 0.41414-1.5239 1.2037-1.6466l22.674-3.5232c0.78957-0.12269 1.5241 0.41413 1.6467 1.2037l-0.09253-0.59547c-0.12269-0.78956-0.85717-1.3264-1.6467-1.2037z" fill="#fff" fill-opacity=".23954" style="paint-order:fill markers stroke"/>
+<path d="m30.35 281.94 1.3645 8.7813c0.12269 0.78956-0.41418 1.524-1.2037 1.6467l-22.674 3.5232c-0.78957 0.12269-1.524-0.41418-1.6467-1.2038l-1.3645-8.7813z" fill-opacity=".14068" style="paint-order:fill markers stroke"/>
+<path d="m30.403 282.28 1.3645 8.7813c0.12269 0.78956-0.41418 1.524-1.2037 1.6467l-22.674 3.5232c-0.78957 0.12269-1.524-0.41419-1.6467-1.2038l-1.3645-8.7813z" fill="url(#linearGradient1029)" style="paint-order:fill markers stroke"/>
+<path d="m7.8903 296.23c-0.78957 0.12269-1.5239-0.41414-1.6466-1.2037l-0.092528-0.59546c0.12269 0.78956 0.85705 1.3264 1.6466 1.2037l22.674-3.5232c0.78957-0.12269 1.3265-0.85707 1.2038-1.6466l0.09253 0.59546c0.12269 0.78957-0.41427 1.524-1.2038 1.6466z" fill-opacity=".068441" style="paint-order:fill markers stroke"/>
+<path d="m15.701 287.21 0.83834 5.3952 4.2533-3.4236zm-5.3362 2.0441-3.0149 2.4268 3.6091 1.3975-0.15981-1.0285 1.9413 0.75165-0.59425-3.8243-1.6217 1.3053zm13.414-2.0844 0.59425 3.8243 1.6217-1.3053 0.15981 1.0285 3.0149-2.4268-3.6091-1.3975 0.15981 1.0285z" fill="#4d4d4d" style="paint-order:fill markers stroke"/>
+<path d="m4.8792 286.25 0.035228 0.22671 25.524-3.9662-0.03523-0.22671z" fill="#fff" fill-opacity=".053232" style="paint-order:fill markers stroke"/>
+<path d="m15.701 287.21 0.83834 5.3952 4.2533-3.4236z" fill="#2f89f6" style="paint-order:fill markers stroke"/>
+<path d="m15.165 268.65a6.7616 6.7616 0 0 0-5.524 7.8049 6.7616 6.7616 0 0 0 7.805 5.5245 6.7616 6.7616 0 0 0 5.5244-7.8055 6.7616 6.7616 0 0 0-7.8054-5.5239zm-1.6577 4.1303 5.5716 2.0596-4.5697 3.7955z" fill="#01080e" fill-opacity=".12548" filter="url(#filter1178)" style="paint-order:fill markers stroke"/>
+<path d="m15.165 268.65a6.7616 6.7616 0 0 0-5.524 7.8049 6.7616 6.7616 0 0 0 7.805 5.5245 6.7616 6.7616 0 0 0 5.5244-7.8055 6.7616 6.7616 0 0 0-7.8054-5.5239zm-1.6577 4.1303 5.5716 2.0596-4.5697 3.7955z" fill="#fff" style="paint-order:fill markers stroke"/>
+</g>
+</svg>

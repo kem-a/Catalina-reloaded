@@ -1,0 +1,14 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient823" x1="68.463" x2="68.287" y1="23.819" y2="121.01" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fbef77" offset="0"/>
+<stop stop-color="#f8b309" offset="1"/>
+</linearGradient>
+<filter id="filter4763" x="-.057746" y="-.062437" width="1.1155" height="1.1249" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="1.6680182"/>
+</filter>
+</defs>
+<circle cx="68.953" cy="68.366" r="64.022" fill="url(#linearGradient823)" stroke="#eee" stroke-width="6"/>
+<path d="m83.623 36.308-28.348 0.57812a4.0004 4.0004 0 0 0-3.3359 1.9219l-17.066 28.059a4.0004 4.0004 0 0 0-0.0449 4.082l15.91 27.48a4.0004 4.0004 0 0 0 3.5391 1.9941l29.795-0.57812a4.0004 4.0004 0 0 0 3.3906-2.0059l15.621-27.191a4.0004 4.0004 0 0 0 0.0195-3.9492l-15.91-28.35a4.0004 4.0004 0 0 0-3.5703-2.041zm-8.8965 8.1836-5.3301 10.139-5.2383-9.9238zm10.26 6.2715 10.029 17.869-9.5 16.539-9.3281-17.674zm-31.086 0.2168 8.7227 16.529-9.7754 18.596-9.9062-17.109zm15.516 29.398 6.1387 11.633-12.381 0.24024z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#4a392d" filter="url(#filter4763)" image-rendering="auto" opacity=".343" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m83.623 36.308-28.348 0.57812a4.0004 4.0004 0 0 0-3.3359 1.9219l-17.066 28.059a4.0004 4.0004 0 0 0-0.0449 4.082l15.91 27.48a4.0004 4.0004 0 0 0 3.5391 1.9941l29.795-0.57812a4.0004 4.0004 0 0 0 3.3906-2.0059l15.621-27.191a4.0004 4.0004 0 0 0 0.0195-3.9492l-15.91-28.35a4.0004 4.0004 0 0 0-3.5703-2.041zm-8.8965 8.1836-5.3301 10.139-5.2383-9.9238zm10.26 6.2715 10.029 17.869-9.5 16.539-9.3281-17.674zm-31.086 0.2168 8.7227 16.529-9.7754 18.596-9.9062-17.109zm15.516 29.398 6.1387 11.633-12.381 0.24024z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#4d4d4d" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

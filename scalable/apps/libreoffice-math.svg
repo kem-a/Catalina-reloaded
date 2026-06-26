@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<linearGradient id="a" x1="476.86" x2="476.36" y1="112.16" y2="162.63" gradientTransform="matrix(5.2904 6e-8 -6e-8 5.2904 -2379.8 -500.04)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#657d83" offset="0"/>
+<stop stop-color="#53676c" offset="1"/>
+</linearGradient>
+<rect transform="matrix(.99768 .068112 -.068112 .99768 0 0)" x="292.9" y="4.1388" width="195.15" height="411.66" ry="25.079" fill="#53676c"/>
+<path transform="matrix(.99768 .068112 -.068112 .99768 0 0)" d="m290.88 24.843h176.12v367.26h-176.12z" fill="#fff"/>
+<path d="m394.92 128.77-3.1039 32.95-32.95-3.1039-1.8757 19.912 32.95 3.1039-3.1039 32.95 19.912 1.8757 3.1039-32.95 32.952 3.1041 1.8757-19.912-32.952-3.1041 3.1039-32.95zm-47.856 155.13-1.8757 19.912 85.813 8.0837 1.8757-19.912z" fill="#53676c"/>
+<path transform="matrix(.98865 -.15021 .15021 .98865 0 0)" d="m16.549 49.945h298.99v464.95h-298.99z" fill="url(#a)"/>
+<text transform="matrix(.9882 -.15318 .15318 .9882 0 0)" x="86.445442" y="386.40091" fill="#fff" font-family="TeX Gyre Heros Cn" font-size="242" font-stretch="condensed" font-weight="bold" letter-spacing="0" stroke-width="2.5208" word-spacing="0"><tspan x="86.445442" y="386.40091" stroke-width="2.5208">M</tspan></text>
+</svg>

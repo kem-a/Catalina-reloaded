@@ -1,0 +1,14 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+<linearGradient id="a" x1="476.86" x2="476.36" y1="112.16" y2="162.63" gradientTransform="matrix(5.2904 6e-8 -6e-8 5.2904 -2379.8 -500.04)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#d96c6c" offset="0"/>
+<stop stop-color="#d14b4b" offset="1"/>
+</linearGradient>
+<g transform="matrix(.24881 0 0 .24881 .25155 .79409)">
+<rect transform="matrix(.99768 .068112 -.068112 .99768 0 0)" x="292.9" y="4.1388" width="195.15" height="411.66" ry="25.079" fill="#d14b4b"/>
+<path transform="matrix(.99768 .068112 -.068112 .99768 0 0)" d="m290.88 24.843h176.12v367.26h-176.12z" fill="#fff"/>
+<path d="m396.26 86.68c32.415 8.4911 51.825 41.609 43.334 74.022l-58.697-15.376c0.0122 3e-3 15.375-58.643 15.363-58.646zm-20.677 11.627-15.376 58.699 58.697 15.376c-8.5008 32.452-41.646 51.816-74.073 43.321-32.427-8.4943-51.797-41.615-43.297-74.067 8.4943-32.427 41.634-51.82 74.049-43.329z" fill="#d14b4b" stroke-width="15.962"/>
+<path d="m310.81 276.51-1.6112 17.928 106.84 9.6017 1.6112-17.928zm6.9034 59.364-1.6112 17.928 94.696 8.5106 1.6112-17.928z" fill="#d14b4b"/>
+<path transform="matrix(.98865 -.15021 .15021 .98865 0 0)" d="m16.549 49.945h298.99v464.95h-298.99z" fill="url(#a)"/>
+<text transform="matrix(.99032 -.1388 .1388 .99032 0 0)" x="146.20186" y="374.68011" fill="#fff" font-family="TeX Gyre Heros Cn" font-size="242" font-stretch="condensed" font-weight="bold" letter-spacing="0" stroke-width="2.5208" word-spacing="0"><tspan x="146.20186" y="374.68011" stroke-width="2.5208">I</tspan></text>
+</g>
+</svg>

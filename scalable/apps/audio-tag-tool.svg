@@ -1,0 +1,19 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient859" x1="70.437" x2="79.909" y1="-9.819" y2="137.96" gradientUnits="userSpaceOnUse">
+<stop stop-color="#75eacb" offset="0"/>
+<stop stop-color="#54adca" offset=".089035"/>
+<stop stop-color="#2e64c9" offset=".43186"/>
+<stop stop-color="#7e75e2" offset=".78143"/>
+<stop stop-color="#db89ff" offset="1"/>
+</linearGradient>
+</defs>
+<filter x="-.069933" y="-.054406" width="1.1399" height="1.1088" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="1.9764485"/>
+</filter>
+<path d="m68.113 2.2168c-36.979 0-67.021 30.042-67.021 67.021 0 36.979 30.042 67.021 67.021 67.021 36.979 0 67.021-30.042 67.021-67.021 0-36.979-30.042-67.021-67.021-67.021z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient859)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m68.113 8.7812c-33.39-2.971e-4 -60.457 27.067-60.457 60.457-2.96e-4 33.39 27.067 60.457 60.457 60.457 33.39 3e-4 60.457-27.067 60.457-60.457 3e-4 -33.39-27.067-60.457-60.457-60.457zm8.1445 27.686h18.471c3.3863 0 6.1561 2.7698 6.1563 6.1562v18.471c0 3.3859-1.9591 8.1157-4.3535 10.51l-28.609 28.611c-2.3945 2.3946-6.3126 2.3946-8.707 0l-22.078-22.078c-2.3944-2.394-2.3944-6.3125 0-8.707l28.611-28.611c2.3944-2.394 7.1232-4.3516 10.51-4.3516zm10.289 8.1914c-3.3937 0-6.1445 2.7529-6.1445 6.1465 0 3.3936 2.7509 6.1445 6.1445 6.1445 3.3937 0 6.1465-2.751 6.1465-6.1445 0-3.3936-2.7528-6.1465-6.1465-6.1465z" fill="#fff" style="paint-order:fill markers stroke"/>
+<circle cx="-129.42" cy="29.494" r="0" fill="url(#a-5)" stroke-width="1.501"/>
+<circle cx="-174.74" cy="22.417" r="0" fill="url(#d-3)" stroke-width="2"/>
+<circle cx="-235.55" cy="22.495" r="0" fill="url(#b-6)" stroke-width="2"/>
+</svg>

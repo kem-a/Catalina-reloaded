@@ -1,0 +1,30 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3568" x1="176.62" x2="132.29" y1="18.615" y2="37.803" gradientTransform="matrix(.25267 0 0 .25267 -29.66 1.4385)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#dc4b3e" offset="0"/>
+<stop stop-color="#cb4a3c" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient7107" x1="-101.01" x2="-79.874" y1="96.413" y2="115.86" gradientTransform="matrix(.25267 0 0 .25267 37.236 .68349)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#23a566" offset="0"/>
+<stop stop-color="#129353" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient19262" x1="-29.221" x2="-26.699" y1="47.456" y2="68.576" gradientTransform="matrix(.25267 0 0 .25267 37.488 .93616)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fcc13d" offset="0"/>
+<stop stop-color="#ffcd41" offset="1"/>
+</linearGradient>
+<clipPath id="b-3">
+<use width="100%" height="100%" overflow="visible" xlink:href="#a"/>
+</clipPath>
+</defs>
+<circle cx="16.734" cy="17.033" r="15.557" fill="url(#linearGradient3568)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".16243" style="paint-order:stroke markers fill"/>
+<path d="m3.5693 8.7645 7.077 7.1811 0.91377 7.2069-5.111-1.8598z" fill="#400000" fill-opacity=".1147"/>
+<path d="m3.5693 8.7645c-1.5591 2.4764-2.3882 5.3423-2.392 8.2686 0.020055 8.2305 6.4474 15.021 14.664 15.493l6.7836-11.75-11.889-0.24884z" fill="url(#linearGradient7107)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".16243" style="paint-order:stroke markers fill"/>
+<path d="m18.677 23.242-1.9889 8.6478 11.633-10.512-6.1184-1.5942z" fill="#004001" fill-opacity=".16046"/>
+<path d="m16.968 9.9312 5.6586 10.586-6.7852 12.009c0.29691 0.02978 0.59461 0.05101 0.89274 0.06366 8.592 7.2e-5 15.557-6.9651 15.557-15.557-0.0016-2.4703-0.59116-4.9048-1.7203-7.102z" fill="url(#linearGradient19262)"/>
+<path d="m16.968 9.9312 0.84536 1.5812 2.1778 0.6835 9.1258-2.2647z" fill="#926a00" fill-opacity=".16046"/>
+<g transform="matrix(.17653 0 0 .17653 -.21226 .086746)" clip-path="url(#b-3)">
+<circle cx="96" cy="96" r="40" fill="#f1f1f1"/>
+<circle cx="96" cy="96" r="32" fill="#4285f4"/>
+</g>
+<circle cx="16.734" cy="17.033" r="6.363" fill="#4285f4" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4023" style="paint-order:markers fill stroke"/>
+</svg>

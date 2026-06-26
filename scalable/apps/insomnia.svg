@@ -1,0 +1,29 @@
+<svg width="128" height="128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1199" x1="30.014" x2="90.51" y1="25.306" y2="102.05" gradientUnits="userSpaceOnUse">
+<stop stop-color="#bb7dff" offset="0"/>
+<stop stop-color="#7c4eea" offset="1"/>
+</linearGradient>
+</defs>
+<filter x="-.063962" y="-.0565" width="1.1279" height="1.113" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="2.1746765"/>
+</filter>
+<filter x="-.019943" y="-.13645" width="1.0399" height="1.2729" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation=".19828681"/>
+</filter>
+<radialGradient id="q" cx="23.896" cy="3.99" r="20.397" gradientTransform="matrix(0 8.3697 -11.048 0 106.38 -200.08)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#ddd" offset=".26238"/>
+<stop stop-color="#abacae" offset=".66094"/>
+<stop stop-color="#89898b" offset="1"/>
+</radialGradient>
+<filter id="r" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation=".60996385"/>
+</filter>
+<path transform="matrix(2.779 0 0 2.779 -3.0686 -4.6407)" d="m43.853 23.462c0 11.23-9.1025 20.332-20.332 20.332s-20.332-9.1025-20.332-20.332c0-11.23 9.1025-20.332 20.332-20.332s20.332 9.1025 20.332 20.332z" fill="none" filter="url(#r)" stroke="#292929" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".1597" stroke-width="1.9811"/>
+<path d="m62.296 1.1597c-32.775 0-59.4 26.626-59.4 59.4s26.626 59.4 59.4 59.4c32.775 0 59.4-26.626 59.4-59.4s-26.626-59.4-59.4-59.4z" fill="url(#q)" stroke-width="2.8976"/>
+<path d="m62.296 1.1597c-32.775 0-59.4 26.626-59.4 59.4s26.626 59.4 59.4 59.4c32.775 0 59.4-26.626 59.4-59.4s-26.626-59.4-59.4-59.4z" fill="url(#linearGradient1199)" stroke-width="2.8976"/>
+<path d="m118.8 60.56c0 31.207-25.296 56.503-56.503 56.503-31.207 0-56.503-25.296-56.503-56.503 0-31.207 25.296-56.503 56.503-56.503 31.207 0 56.503 25.296 56.503 56.503z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5054"/>
+<path d="m62.296 1.16c-32.775 0-59.4 26.625-59.4 59.4 0 32.775 26.625 59.4 59.4 59.4s59.4-26.625 59.4-59.4c0-32.775-26.626-59.4-59.4-59.4z" fill="none" stroke="#fbfbfb" stroke-linecap="round" stroke-linejoin="round" stroke-width=".57952"/>
+<path d="m62.295 25.577a34.983 34.983 0 0 0-7.1641 0.7832 17.763 17.763 0 0 1 7.9785 14.811 17.763 17.763 0 0 1-17.764 17.762 17.763 17.763 0 0 1-15.982-10.047 34.983 34.983 0 0 0-2.0508 11.674 34.983 34.983 0 0 0 34.982 34.984 34.983 34.983 0 0 0 34.984-34.984 34.983 34.983 0 0 0-34.984-34.982z" fill="#f2f5f6"/>
+</svg>

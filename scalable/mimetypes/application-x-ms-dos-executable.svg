@@ -1,0 +1,85 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(0 -263.13)">
+<rect x=".46916" y="268.18" width="32.928" height="24.428" ry="0" fill-rule="evenodd" opacity=".25"/>
+<rect x=".46916" y="267.73" width="32.928" height="24.428" ry="0" fill="#f9f9f9" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width=".3"/>
+<path d="m0.6274 267.73v2.4387h32.609v-2.4387z" fill="#e5e5e5" fill-rule="evenodd"/>
+<path d="m0.46921 267.73v1.0797h32.928v-1.0797z" fill="#808080" fill-rule="evenodd"/>
+<path d="m0.61996 270.35v21.633h5.807v-21.633z" fill="#e5e5e5" fill-rule="evenodd"/>
+<rect x="7.4272" y="271.77" width="14.119" height="18.581" fill-rule="evenodd" opacity=".25"/>
+<rect x="7.4272" y="271.32" width="14.119" height="18.581" fill="#0279d7" fill-rule="evenodd"/>
+<g transform="matrix(.056588 0 0 .056512 3.9118 280.81)" fill="none" stroke="#808080" stroke-linecap="square" stroke-width="7.0734">
+<path d="m333.35-151.74h167.18"/>
+<path d="m333.35-133.74h167.18"/>
+<path d="m333.35-113.74h167.18"/>
+<path d="m333.35-95.74h167.18"/>
+<path d="m333.35-77.74h167.18"/>
+<path d="m333.35-59.74h167.18"/>
+<path d="m333.35-41.74h167.18"/>
+<path d="m333.35-23.74h167.18"/>
+<path d="m333.35-3.7396h167.18"/>
+<path d="m333.35 14.26h167.18"/>
+<path d="m333.35 32.26h167.18"/>
+<path d="m333.35 52.26h167.18"/>
+<path d="m333.35 70.26h167.18"/>
+<path d="m333.35 88.26h167.18"/>
+<path d="m333.35 106.26h167.18"/>
+<path d="m333.35 124.26h167.18"/>
+<path d="m333.35 142.26h167.18"/>
+<path d="m333.35 162.26h167.18"/>
+</g>
+<g transform="matrix(.0027403 0 0 .0027366 1.0446 268.92)" fill="#808080" stroke-width="2.7373">
+<g fill="#808080" stroke-width="2.7373">
+<path d="m0 382.5h459v-51h-459zm0-127.5h459v-51h-459zm0-178.5v51h459v-51z" fill="#808080" stroke-width="2.7373"/>
+</g>
+</g>
+<g transform="matrix(.0014815 0 0 .0014796 29.715 269.17)" fill="#808080" stroke-width="4.0802">
+<g fill="#808080" stroke-width="4.0802">
+<path d="m408 0h-357c-28.05 0-51 22.95-51 51v357c0 28.05 22.95 51 51 51h357c28.05 0 51-22.95 51-51v-357c0-28.05-22.95-51-51-51zm0 408h-357v-357h178.5v102h178.5z" fill="#808080" stroke-width="4.0802"/>
+</g>
+</g>
+<g transform="matrix(.0014815 0 0 .0014796 31.281 269.17)" fill="#808080" stroke-width="4.0802">
+<g fill="#808080" stroke-width="4.0802">
+<path d="m408 0h-357c-28.05 0-51 22.95-51 51v357c0 28.05 22.95 51 51 51h357c28.05 0 51-22.95 51-51v-357c0-28.05-22.95-51-51-51zm0 408h-357v-357h178.5v102h178.5z" fill="#808080" stroke-width="4.0802"/>
+</g>
+</g>
+<g transform="matrix(.048251 0 0 .048187 3.8549 279.96)" fill="#fff" stroke-width="4.0802">
+<g transform="matrix(.033613 0 0 .033613 587.47 -250.18)">
+<g fill="#fff" stroke-width="4.0802">
+<polygon points="357 35.7 321.3 0 178.5 142.8 35.7 0 0 35.7 142.8 178.5 0 321.3 35.7 357 178.5 214.2 321.3 357 357 321.3 214.2 178.5" fill="#fff" stroke-width="4.0802"/>
+</g>
+</g>
+<g transform="matrix(.033613 0 0 .033613 551.3 -245.04)">
+<g fill="#fff" stroke-width="4.0802">
+<path d="m357 204h-357v-51h357z" fill="#fff" stroke-width="4.0802"/>
+</g>
+</g>
+<g transform="matrix(.033613 0 0 .033613 568.64 -250.18)">
+<g fill="#fff" stroke-width="4.0802">
+<path d="m51 229.5h-51v127.5h127.5v-51h-76.5zm-51-102h51v-76.5h76.5v-51h-127.5zm306 178.5h-76.5v51h127.5v-127.5h-51zm-76.5-306v51h76.5v76.5h51v-127.5z" fill="#fff" stroke-width="4.0802"/>
+</g>
+</g>
+</g>
+<g transform="matrix(.056588 0 0 .056512 3.9118 280.81)" fill="none" stroke="#7b7e80" stroke-linecap="square" stroke-width="5.305">
+<g transform="translate(-.17857)">
+<rect x="-46.861" y="-159.96" width="13.667" height="13.667" stroke-linejoin="bevel"/>
+<path d="m-18.734-151.14h41.177"/>
+</g>
+<g transform="translate(-.17857 42.5)">
+<rect x="-46.861" y="-159.96" width="13.667" height="13.667" stroke-linejoin="bevel"/>
+<path d="m-18.734-151.14h41.177"/>
+</g>
+<g transform="translate(-.17857 84.643)">
+<rect x="-46.861" y="-159.96" width="13.667" height="13.667" stroke-linejoin="bevel"/>
+<path d="m-18.734-151.14h41.177"/>
+</g>
+<g transform="translate(-.17857 126.43)">
+<rect x="-46.861" y="-159.96" width="13.667" height="13.667" stroke-linejoin="bevel"/>
+<path d="m-18.734-151.14h41.177"/>
+</g>
+<g transform="translate(-.17857 168.57)">
+<rect x="-46.861" y="-159.96" width="13.667" height="13.667" stroke-linejoin="bevel"/>
+<path d="m-18.734-151.14h41.177"/>
+</g>
+</g>
+</g>
+</svg>

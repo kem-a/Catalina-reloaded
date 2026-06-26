@@ -1,0 +1,21 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient825" x1="-741.83" x2="-741.83" y1="959.05" y2="93.836" gradientTransform="matrix(.13668 0 0 .13668 162.12 -6.0373)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0063d8" offset="0"/>
+<stop stop-color="#00afff" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient835" x1="-738.76" x2="-738.76" y1="931.43" y2="152.13" gradientTransform="matrix(.13668 0 0 .13668 162.31 -5.9893)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0072ff" offset="0"/>
+<stop stop-color="#00afff" offset="1"/>
+</linearGradient>
+<filter id="filter878" x="-.059999" y="-.060001" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="0.99153842"/>
+</filter>
+</defs>
+<circle cx="63.4" cy="64.238" r="61.38" fill="url(#linearGradient825)"/>
+<circle cx="63.592" cy="64.286" r="55.09" fill="url(#linearGradient835)"/>
+<g transform="translate(.51007 .67886)">
+<path transform="matrix(1.8752 0 0 1.8752 -58.575 -60.719)" d="m64.876 46.468c-0.723 0-1.446 0.27608-2 0.83008l-6.0762 6.0762v16.154l16.152-16.154-6.0762-6.0762c-0.554-0.554-1.277-0.83008-2-0.83008zm12.924 11.754-8.0781 8.0762 8.0781 8.0762 6.0762-6.0762c1.108-1.108 1.108-2.892 0-4zm-27.463 1.6152-4.4609 4.4609c-1.108 1.108-1.108 2.892 0 4l4.4609 4.4609v-12.922zm14.539 11.307-8.0762 8.0781 6.0762 6.0762c1.108 1.108 2.892 1.108 4 0l6.0762-6.0762z" filter="url(#filter878)" opacity=".25" stroke-width="1.6154"/>
+<path d="m63.081 26.42c-1.3558 0-2.7116 0.51771-3.7505 1.5566l-11.394 11.394v30.292l30.289-30.292-11.394-11.394c-1.0389-1.0389-2.3947-1.5566-3.7505-1.5566zm24.235 22.041-15.148 15.145 15.148 15.145 11.394-11.394c2.0778-2.0778 2.0778-5.4232 0-7.5009zm-51.499 3.0289-8.3652 8.3652c-2.0778 2.0778-2.0778 5.4232 0 7.5009l8.3652 8.3652v-24.232zm27.264 21.203-15.145 15.148 11.394 11.394c2.0778 2.0778 5.4232 2.0778 7.5009 0l11.394-11.394z" fill="#fff" stroke-width="3.0292"/>
+</g>
+</svg>

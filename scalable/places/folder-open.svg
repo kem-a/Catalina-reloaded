@@ -1,0 +1,38 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient838">
+<stop stop-color="#a3f2ff" offset="0"/>
+<stop stop-color="#6ecaf5" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient832" x1="198.81" x2="198.81" y1="44.913" y2="103.59" gradientTransform="translate(-138.83 -.12532)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5fccf8" offset="0"/>
+<stop stop-color="#74d2f8" offset=".35"/>
+<stop stop-color="#83d7f9" offset=".7"/>
+<stop stop-color="#67cef8" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient840" x1="208.55" x2="208.55" y1="76.005" y2="38.852" gradientTransform="translate(-138.83 -.12532)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient838"/>
+<linearGradient id="linearGradient848" x1="201.2" x2="201.2" y1="26.494" y2="49.505" gradientTransform="translate(-138.83 -.12532)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#a2ecff" stop-opacity=".98824" offset="0"/>
+<stop stop-color="#b5e7fc" offset="1"/>
+</linearGradient>
+<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+<style id="current-color-scheme-3" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+<linearGradient id="linearGradient995" x1="201.2" x2="201.2" y1="26.494" y2="49.505" gradientTransform="translate(-138.83 -.12532)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#94dcff" offset="0"/>
+<stop stop-color="#b5e7fc" offset="1"/>
+</linearGradient>
+</defs>
+<path d="m16.112 22.628c-4.0539 0.14261-7.3223 3.2659-7.3223 7.3223v39.247l99.307 0.79858c4.2442 0 7.6621-3.416 7.6621-7.6602v-24.543c0-4.2442-3.4179-7.6602-7.6621-7.6602h-60.397c-1.3423 0-3.6781-8.2715-9.7834-8.2715z" fill="url(#linearGradient995)" stroke="url(#linearGradient848)" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+<path d="m4.2888 40.592h119.06c0.95096 0 1.8213 0.77136 1.7165 1.7165l-6.8238 61.582c-0.10473 0.94517-0.76556 1.7153-1.7165 1.7165l-105.61 0.1356c-0.95096 1e-3 -1.6149-0.77103-1.7165-1.7165l-6.6321-61.718c-0.1016-0.94551 0.76557-1.7165 1.7165-1.7165z" fill="url(#linearGradient832)" stroke="url(#linearGradient840)" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+<path d="m8.9154 101.34 0.10742 1h109.39l0.11133-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#2d5c81" fill-opacity=".072243" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m9.0228 102.34 0.10742 1h109.18l0.11133-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" fill-opacity=".13688" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m8.5521 97.951 0.10742 1h110.13l0.11133-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#2d5c81" fill-opacity=".072243" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m8.6596 98.951 0.10742 0.99999h109.91l0.11133-0.99999z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" fill-opacity=".13688" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m8.1576 94.291 0.10743 1h110.93l0.11133-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#2d5c81" fill-opacity=".072243" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m8.265 95.291 0.10742 1h110.71l0.11133-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" fill-opacity=".13688" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m4.2888 40.592h119.06c0.95096 0 1.8213 0.77136 1.7165 1.7165l-6.8238 61.582c-0.10473 0.94517-0.76556 1.7153-1.7165 1.7165l-105.61 0.1356c-0.95096 1e-3 -1.6149-0.77103-1.7165-1.7165l-6.6321-61.718c-0.1016-0.94551 0.76557-1.7165 1.7165-1.7165z" fill="none" stroke="url(#linearGradient840)" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+</svg>

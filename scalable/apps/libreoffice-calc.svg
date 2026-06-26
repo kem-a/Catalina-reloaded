@@ -1,0 +1,25 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient856" x1="86.345" x2="97.988" y1="58.765" y2="56.894" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop stop-opacity=".054902" offset=".8249"/>
+<stop stop-opacity=".027451" offset=".90864"/>
+<stop stop-opacity=".019608" offset=".92884"/>
+<stop stop-opacity=".011765" offset=".95191"/>
+<stop stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient891" x1="70.407" x2="53.469" y1="119.05" y2="9.9367" gradientUnits="userSpaceOnUse">
+<stop stop-color="#188e67" offset="0"/>
+<stop stop-color="#11b67f" offset="1"/>
+</linearGradient>
+</defs>
+<filter x="-.29025" y="-.31562" width="1.5805" height="1.6312" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="23.878758"/>
+</filter>
+<rect transform="rotate(3.9056)" x="76.693" y="1.2864" width="48.913" height="103.18" ry="6.286" fill="#188e67" stroke-width=".25065"/>
+<path d="m75.57 11.65 44.041 3.0067-6.2699 91.838-44.041-3.0067z" fill="#fff" stroke-width=".25065"/>
+<path d="m75.23 16.608-0.32633 5.2937 37.929 2.3438 0.32891-5.2937zm-0.76401 12.359-0.32633 5.2937 37.929 2.3438 0.32891-5.2937zm-0.76142 12.359-0.32892 5.2937 37.931 2.3438 0.32632-5.2937zm-0.764 12.356-0.32892 5.2937 37.931 2.3438 0.32632-5.2937zm-0.76402 12.359-0.32632 5.2937 37.929 2.3438 0.32633-5.2937zm-0.76401 12.359-0.32632 5.2937 37.929 2.3438 0.32634-5.2937zm-0.76401 12.356-0.32632 5.2937 37.929 2.3438 0.32892-5.2937z" fill="#188e67" stroke-width=".25065"/>
+<path d="m9.2363 12.225 74.092-11.257 17.505 115.21-74.092 11.257z" fill="url(#linearGradient891)" stroke-width=".25065"/>
+<path d="m84.25 7.041 15.877 104.51 11.801 0.80664c3.4744 0.23719 6.462-2.3694 6.6992-5.8438l6.1719-90.4c0.2372-3.4744-2.3694-6.462-5.8438-6.6992l-34.705-2.3691z" fill="url(#linearGradient856)"/>
+<text transform="rotate(-8.8113)" x="26.963961" y="96.63839" fill="#ffffff" font-family="'TeX Gyre Heros Cn'" font-size="60.803px" font-stretch="condensed" font-weight="bold" letter-spacing="0" stroke-width=".63336" word-spacing="0"><tspan x="26.963961" y="96.63839" stroke-width=".63336">X</tspan></text>
+</svg>

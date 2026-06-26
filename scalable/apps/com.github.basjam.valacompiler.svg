@@ -1,0 +1,44 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<linearGradient id="linearGradient948" x1="122.34" x2="84.091" y1="117.04" y2="71.02" gradientTransform="matrix(.26458 0 0 .26458 -73.214 269.23)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient944"/>
+<linearGradient id="linearGradient944">
+<stop stop-color="#d5dada" offset="0"/>
+<stop stop-color="#f1f1f1" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient993" x1="-39.014" x2="-21.756" y1="265.76" y2="285.73" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#f0f0f0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1001" x1="-27.415" x2="-28.241" y1="293.27" y2="266.7" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9031fc" offset="0"/>
+<stop stop-color="#58c8f2" offset="1"/>
+</linearGradient>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<linearGradient id="linearGradient1194" x1="122.34" x2="84.091" y1="117.04" y2="71.02" gradientTransform="matrix(.26458 0 0 .26458 -114.23 271.81)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient944"/>
+</defs>
+<g transform="translate(0 -263.13)">
+<g transform="matrix(.97507 -.15 .15 .97507 22.55 10.715)" fill="none" opacity=".389" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".039216">
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".15" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".3" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".45" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".6" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" stroke-width=".85" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-.018651)" x="-61.945" y="253.77" width="25.83" height="29.567" rx="1.4423" ry="1.4423" opacity="1" style="paint-order:fill markers stroke"/>
+</g>
+<rect transform="rotate(-8.764)" x="-40.457" y="264.37" width="25.483" height="29.169" rx="1.4229" ry="1.4229" fill="url(#linearGradient993)" style="paint-order:fill markers stroke"/>
+<rect transform="rotate(-8.764)" x="-39.014" y="265.76" width="22.702" height="26.092" rx="1.4229" ry="1.4229" fill="url(#linearGradient1001)" style="paint-order:fill markers stroke"/>
+<path transform="matrix(.26458 0 0 .26458 0 263.13)" d="m98.523 72.387a26.842 27.399 7.696e-6 0 0-5.3516 0.28711 26.842 27.399 7.696e-6 0 0-22.449 31.246 26.842 27.399 7.696e-6 0 0 5.1992 12.422l31.871-4.9141c2.9446-0.45394 4.95-3.1902 4.4961-6.1348l-4.75-30.809a26.842 27.399 7.696e-6 0 0-9.0156-2.0977z" fill="#343434" fill-opacity=".20455" opacity=".097" style="paint-order:fill markers stroke"/>
+<path d="m13.429 273.75c-0.51223 0.10424-0.84643 0.20939-1.1557 0.32131-2.9614 1.0714-5.2784 3.4978-3.6258 7.2504 2.3498 5.3359 10.759 0.20411 10.757-0.47033-7.63e-4 -0.27139-0.04741-0.83913-0.08715-0.91552-0.1492 0.28159-0.88367 0.68621-1.1313 0.82413-0.20193 0.11245-6.1913 3.6366-8.0808-0.0134-0.72077-1.3924-0.82375-3.4917 1.3382-5.1957l0.29267-0.21512 0.08132 0.34147c0.08901 0.37377 2.6351 11.568 2.6678 11.729l0.02019 0.0996 1.3073-0.27736 1.3073-0.2772 1.1313-7.1345c0.62219-3.9239 1.129-7.1503 1.1262-7.1696-0.0028-0.0194-0.28877 0.028-0.63544 0.10538l-0.63033 0.14074-0.76537 5.8079c-0.421 3.1944-0.76941 5.8056-0.77416 5.8025-0.0047-3e-3 -0.53972-2.449-1.189-5.4353-0.64926-2.9863-1.1917-5.438-1.2054-5.448-0.0137-0.0101-0.35081 0.0482-0.74919 0.12922z" fill="#fff" style="paint-order:fill markers stroke"/>
+</g>
+</svg>

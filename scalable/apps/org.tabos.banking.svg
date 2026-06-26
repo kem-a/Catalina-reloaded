@@ -1,0 +1,37 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient id="radialGradient1124" cx="16.744" cy="4.1208" r="14.544" gradientTransform="matrix(3.7095 0 0 1.8362 -45.368 -3.4458)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f97312" offset="0"/>
+<stop stop-color="#e3362c" offset="1"/>
+</radialGradient>
+</defs>
+<g transform="matrix(.97573 0 0 .97573 -65.861 -37.234)" fill="none" opacity=".13962" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".02">
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".1"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".3"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".5"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".7"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width=".8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="1.8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="2.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3.4"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="3.8"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="4.2"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="4.6"/>
+<rect x="69.84" y="40.71" width="29.811" height="29.811" rx="6.6099" ry="6.6099" stroke-width="5"/>
+</g>
+<rect x="2.2835" y="2.4875" width="29.087" height="29.087" rx="6.4495" ry="6.4495" fill="url(#radialGradient1124)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6877" style="mix-blend-mode:normal"/>
+<path transform="scale(.26458)" d="m26.73 24.338c-2.1128 0-3.8125 1.5736-3.8125 3.5273v2.998h9.7871v-6.5254h-5.9746zm8.2578 0v16.312 2.2832 4.2402h7.5039v-4.2402-2.2832-7.5039-2.2832h2.2832 10.766v-2.998c0-1.9538-1.7016-3.5273-3.8145-3.5273h-16.738zm-12.07 8.8086v7.5039h9.7871v-7.5039h-9.7871zm21.857 0v7.5039h10.766v-7.5039h-10.766zm-21.857 9.7871v0.71484c0 1.9538 1.6997 3.5254 3.8125 3.5254h5.9746v-4.2402h-9.7871zm21.857 0v4.2402h6.9512c2.1128 0 3.8145-1.5716 3.8145-3.5254v-0.71484h-10.766z" fill="#fff" stroke-width="3.2624"/>
+<rect x="5.5253" y="18.485" width="6.498" height="2.1598" rx="1.0799" ry="1.0799" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".34396"/>
+<rect x="13.716" y="18.485" width="6.498" height="2.1598" rx="1.0799" ry="1.0799" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".34396"/>
+<rect x="22.061" y="18.485" width="6.498" height="2.1598" rx="1.0799" ry="1.0799" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".34396"/>
+</svg>

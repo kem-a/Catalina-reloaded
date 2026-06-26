@@ -1,0 +1,15 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<linearGradient id="a" x1="476.86" x2="476.36" y1="112.16" y2="162.63" gradientTransform="matrix(5.2904 6e-8 -6e-8 5.2904 -2379.8 -500.04)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#454545" offset="0"/>
+<stop stop-color="#333" offset="1"/>
+</linearGradient>
+<linearGradient id="b" x1="-241.18" x2="-241.18" y1="218.53" y2="177.36" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3889e9" offset="0"/>
+<stop stop-color="#5ea5fb" offset="1"/>
+</linearGradient>
+<rect transform="matrix(.99768 .068112 -.068112 .99768 0 0)" x="292.9" y="4.1388" width="195.15" height="411.66" ry="25.079" fill="#333"/>
+<path transform="matrix(.99768 .068112 -.068112 .99768 0 0)" d="m290.88 24.843h176.12v367.26h-176.12z" fill="#fff"/>
+<path transform="matrix(.98865 -.15021 .15021 .98865 0 0)" d="m16.549 49.945h298.99v464.95h-298.99z" fill="url(#a)"/>
+<circle cx="-239.71" cy="197.94" r="0" fill="url(#b)"/>
+<rect transform="matrix(.98802 -.15432 .15432 .98802 0 0)" x="100.31" y="235.82" width="139.68" height="154.54" ry="16.841" fill="#f9f9f9" stroke-width=".81269"/>
+</svg>

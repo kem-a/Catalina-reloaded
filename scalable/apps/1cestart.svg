@@ -1,0 +1,14 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient823" x1="68.463" x2="68.287" y1="23.819" y2="121.01" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fae95e" offset="0"/>
+<stop stop-color="#ffd266" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient4186" x1="30.858" x2="116.88" y1="16.587" y2="116.38" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f5f5f5" offset="0"/>
+<stop stop-color="#ebeae6" offset="1"/>
+</linearGradient>
+</defs>
+<circle cx="68.953" cy="68.366" r="64.022" fill="url(#linearGradient823)" stroke="url(#linearGradient4186)" stroke-width="6"/>
+<path d="m28.559 46.563v9.69h9.69v33.915h9.69v-43.605h-19.38zm48.45 0c-12.041 0-21.802 9.7612-21.802 21.802 0 11.96 9.6326 21.657 21.561 21.788v0.01429h28.966c1.538-3.0577 2.7466-6.2994 3.6148-9.69h-32.338c-6.6895 0-12.112-5.423-12.112-12.112s5.423-12.112 12.112-12.112c4.8106 0.0061 9.1616 2.8585 11.086 7.2675h10.149c-2.2602-9.9128-11.068-16.948-21.236-16.957z" fill="#444"/>
+</svg>

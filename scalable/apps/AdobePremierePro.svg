@@ -1,0 +1,21 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient827" x1="1.3017" x2="16.054" y1="1.6271" y2="17.464" gradientTransform="matrix(4.8139 0 0 4.8139 -2.896 7.6602)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#a572c3" offset="0"/>
+<stop stop-color="#7b4ea7" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient837" x1="4.6644" x2="20.339" y1="5.0983" y2="21.207" gradientTransform="matrix(4.8139 0 0 4.8139 -2.896 7.6602)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#260f38" offset="0"/>
+<stop stop-color="#160921" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(5.5226 -5.2158)">
+<rect x=".75932" y="11.838" width="115.4" height="115.4" fill="url(#linearGradient827)" style="paint-order:fill markers stroke"/>
+<path d="m9.6365 20.976h96.604v96.604h-96.604z" fill="url(#linearGradient837)" style="paint-order:fill markers stroke"/>
+<path d="m9.6371 20.974v96.607h96.607v-96.607zm1.9556 1.9651h92.686v92.686h-92.686z" fill-opacity=".26374" style="paint-order:fill markers stroke"/>
+<g transform="matrix(4.3448 0 0 5.3337 -9.7652 -485.28)" fill="#956ab6" aria-label="PR">
+<path d="m9.7321 100.59h2.8948q1.2911 0 1.9797 0.57533 0.69311 0.5708 0.69311 1.6308 0 1.0646-0.69311 1.6399-0.68858 0.57079-1.9797 0.57079h-1.1507v2.3466h-1.7441zm1.7441 1.2639v1.8891h0.96492q0.50738 0 0.78372-0.24463 0.27634-0.24915 0.27634-0.70217 0-0.45301-0.27634-0.69764t-0.78372-0.24463z" stroke-width=".23194"/>
+<path d="m18.518 103.59q0.44039 0 0.62965-0.20386 0.1929-0.20386 0.1929-0.67046 0-0.46208-0.1929-0.6614-0.18926-0.19933-0.62965-0.19933h-0.58961v1.735zm-0.58961 1.205v2.5595h-1.4012v-6.7635h2.1401q1.0737 0 1.5723 0.44848 0.50226 0.44849 0.50226 1.4179 0 0.67046-0.26205 1.1008-0.25841 0.43036-0.78251 0.63422 0.28753 0.0815 0.51318 0.37147 0.2293 0.2854 0.46223 0.86979l0.76067 1.9208h-1.4922l-0.6624-1.6807q-0.20018-0.50738-0.40764-0.69312-0.20382-0.18573-0.54594-0.18573z" stroke-width=".2079"/>
+</g>
+</g>
+</svg>

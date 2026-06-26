@@ -1,0 +1,18 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient859" x1="73.909" x2="79.909" y1="8.694" y2="137.96" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f1f1f1" offset="0"/>
+<stop stop-color="#d9dad9" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient867" x1="68.113" x2="68.113" y1="119.15" y2="8.7812" gradientUnits="userSpaceOnUse">
+<stop stop-color="#dd0638" offset="0"/>
+<stop stop-color="#e5496d" offset="1"/>
+</linearGradient>
+</defs>
+<filter x="-.069933" y="-.054406" width="1.1399" height="1.1088" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="1.9764485"/>
+</filter>
+<path d="m68.113 2.2168c-36.979 0-67.021 30.042-67.021 67.021 0 36.979 30.042 67.021 67.021 67.021 36.979 0 67.021-30.042 67.021-67.021 0-36.979-30.042-67.021-67.021-67.021z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient859)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m68.113 8.7812c-33.39-2.971e-4 -60.457 27.067-60.457 60.457-2.96e-4 33.39 27.067 60.457 60.457 60.457 33.39 3e-4 60.457-27.067 60.457-60.457 3e-4 -33.39-27.067-60.457-60.457-60.457z" fill="url(#linearGradient867)" style="paint-order:fill markers stroke"/>
+<path d="m68.121 32.767c-0.05522-0.03889-6.6413 4.3099-14.636 9.655-7.9945 5.3451-14.606 9.784-14.691 9.8661-0.17228 0.16722 29.263 20.026 29.709 20.044 0.32782 0 29.27-19.353 29.211-19.546-0.0272-0.08945-27.104-18.406-29.593-20.019zm-31.413 22.089c-0.05484 0-0.10052 6.9273-0.10052 15.395v15.395l14.917 9.9113c8.2053 5.4505 14.958 9.9063 15.008 9.9063 0.04938 0 0.09048-6.9173 0.09048-15.375v-15.375l-14.907-9.9314c-8.1998-5.4606-14.953-9.9264-15.008-9.9264zm62.871 0.64836c-0.0234 0-6.7483 4.4985-14.942 9.9817h-0.0051l-14.897 9.9666-0.0051 15.128c-0.0027 8.32 0.03644 15.128 0.08544 15.128 0.04899 0 6.7753-4.4708 14.947-9.9365l14.857-9.9415v-15.169c0-8.3441-0.0155-15.165-0.0402-15.159z" fill="#fff" opacity=".98693" stroke-width="3.8888"/>
+</svg>

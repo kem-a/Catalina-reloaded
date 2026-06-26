@@ -1,0 +1,28 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient825" x1="-741.83" x2="-741.83" y1="959.05" y2="93.836" gradientTransform="matrix(.1342 0 0 .1342 160.37 -5.4564)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#c11235" offset="0"/>
+<stop stop-color="#ff697e" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient835" x1="-738.76" x2="-738.76" y1="931.43" y2="152.13" gradientTransform="matrix(.1342 0 0 .1342 160.37 -5.4564)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#e5123d" offset="0"/>
+<stop stop-color="#ff4f68" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(-138.41 -15.501)" fill="none" opacity=".445" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".031373">
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width=".5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="1.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="2"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="2.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="3"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="3.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="4"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="4.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="5.5"/>
+<circle cx="202.16" cy="79.683" r="60.269" opacity="1" stroke-width="6.5"/>
+</g>
+<circle cx="63.433" cy="63.547" r="60.269" fill="url(#linearGradient825)"/>
+<circle cx="63.433" cy="63.547" r="54.093" fill="url(#linearGradient835)"/>
+<path d="m63.199 29.048c-4.17-0.02159-8.3838 0.22454-11.037 0.79 2.8901 10.267 7.5764 20.535 8.2528 30.802-7.8624 0.69645-20.363-4.5863-30.695-7.6392-0.95796 4.9651-1.1309 16.507 0 21.813 10.267-2.8901 20.535-7.5764 30.802-8.2528 0.69645 7.8624-4.5863 20.37-7.6392 30.702 4.9651 0.95798 16.507 1.1309 21.813 0-2.8901-10.267-7.5764-20.535-8.2528-30.802 7.8624-0.69645 20.37 4.5787 30.702 7.6315 0.95796-4.9651 1.1309-16.507 0-21.813-10.267 2.8901-20.535 7.5764-30.802 8.2528-0.69645-7.8624 4.5787-20.363 7.6315-30.695-2.4826-0.47898-6.6061-0.76837-10.776-0.79z" fill="#fff"/>
+</svg>

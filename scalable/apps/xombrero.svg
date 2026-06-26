@@ -1,0 +1,29 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient841" x1="-243.09" x2="-142.77" y1="169.1" y2="329.44" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1c1a1a" offset="0"/>
+<stop stop-color="#161616" offset="1"/>
+</linearGradient>
+<radialGradient id="radialGradient866" cx="595.34" cy="157.46" r="158.46" gradientTransform="matrix(1.2984 -.024209 .015795 .84707 -957.55 -289.28)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3a3b3b" offset="0"/>
+<stop stop-color="#161616" offset="1"/>
+</radialGradient>
+<linearGradient id="linearGradient882" x1="469.31" x2="783.11" y1="221.35" y2="221.35" gradientTransform="translate(-809.9 -323.66)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2c0043" offset="0"/>
+<stop stop-color="#511c74" offset=".32725"/>
+<stop stop-color="#5c2582" offset=".41756"/>
+<stop stop-color="#642c8e" offset=".4746"/>
+<stop stop-color="#632b8c" offset=".51975"/>
+<stop stop-color="#4f1870" offset=".71938"/>
+<stop stop-color="#380054" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="matrix(.29823 0 0 .29823 127.82 16.336)">
+<path d="m-358.71 161.83 293.83-0.74576c102.14 47.878 86.752 159.26-140.95 173.76-98.749 6.2883-323.62-69.121-152.88-173.02z" fill="url(#linearGradient841)"/>
+<path d="m-4.6055 231.46c-1.875 44.747-61.671 90.025-201.22 98.912-72.166 4.5955-211.68-34.443-214.93-96.344-3.457 64.486 141.04 105.52 214.93 100.82 144.21-9.1831 203.26-57.226 201.22-103.39z" fill="#7b797d"/>
+</g>
+<g transform="matrix(.29823 0 0 .29823 120.26 118.57)">
+<path d="m-188.7-304.41c-77.491 0.032-140.6 40.86-141.75 91.699l-11.18 118.97c65.929 72.67 227.44 80.599 316.93 0l-24.056-132.58c-11.191-45.009-70.438-78.069-139.94-78.088z" fill="url(#radialGradient866)"/>
+<path d="m-336.37-149.66-4.2188 44.891c99.119 60.343 202.7 72.362 313.8-0.48828l-7.6563-42.201c-99.334 64.723-200.13 58.723-301.93-2.2012z" fill="url(#linearGradient882)"/>
+</g>
+</svg>

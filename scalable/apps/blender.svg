@@ -1,0 +1,39 @@
+<svg width="128" height="128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient4835" x1="102.3" x2="102.3" y1="-.42687" y2="199.17" gradientTransform="matrix(5.1 0 0 5.1 2 30.362)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f4fbfc" offset="0"/>
+<stop stop-color="#d6d6d6" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient5473" x1="101.81" x2="101.81" y1="-16.578" y2="242.72" gradientTransform="matrix(4.705 0 0 4.705 41 70.362)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fbb521" offset="0"/>
+<stop stop-color="#f15f19" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1009" x1="520" x2="520" y1="32.362" y2="1052.4" gradientTransform="translate(5.4372)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4903"/>
+<linearGradient id="linearGradient1019" x1="520" x2="520" y1="252.36" y2="712.36" gradientTransform="translate(-75.993 -122.99)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#197cf1" offset="0"/>
+<stop stop-color="#21c9fb" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1128" x1="67.024" x2="102.91" y1="283.91" y2="581.76" gradientTransform="translate(44.641 2.6795)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4903"/>
+<linearGradient id="linearGradient4903">
+<stop stop-color="#e8ebec" offset="0"/>
+<stop stop-color="#fdfeff" offset="1"/>
+</linearGradient>
+<filter id="filter1239" x="-.036324" y="-.035682" width="1.0726" height="1.0714" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="11.623637"/>
+</filter>
+</defs>
+<g transform="translate(0 -924.36)">
+<g transform="matrix(.11954 0 0 .11954 3.0291 923.99)">
+<circle cx="512" cy="540.36" r="510" color="#000000" fill="url(#linearGradient4835)"/>
+<circle cx="511.5" cy="540.86" r="470.5" color="#000000" fill="url(#linearGradient5473)"/>
+<g transform="translate(0,10)" fill="#141414" filter="url(#filter1239)" opacity=".2">
+<ellipse transform="rotate(-30)" cx="168.58" cy="460.25" rx="183.31" ry="160.19" opacity="1" style="paint-order:stroke markers fill"/>
+<circle cx="512.01" cy="545.85" r="384" opacity="1" style="paint-order:stroke markers fill"/>
+<circle cx="401.32" cy="346.75" r="128" opacity="1" stroke="#f0f0f0" stroke-linecap="square" stroke-width="1.109" style="paint-order:stroke markers fill"/>
+</g>
+<ellipse transform="rotate(-30)" cx="168.58" cy="460.25" rx="183.31" ry="160.19" fill="url(#linearGradient1128)" style="paint-order:stroke markers fill"/>
+<circle cx="512.01" cy="545.85" r="384" fill="url(#linearGradient1009)" style="paint-order:stroke markers fill"/>
+<circle cx="441.32" cy="426.75" r="128" fill="url(#linearGradient1019)" stroke="#f0f0f0" stroke-linecap="square" stroke-width="1.109" style="paint-order:stroke markers fill"/>
+</g>
+</g>
+</svg>

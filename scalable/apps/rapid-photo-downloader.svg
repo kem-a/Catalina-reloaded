@@ -1,0 +1,63 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient4186" x1="30.858" x2="116.88" y1="16.587" y2="116.38" gradientTransform="matrix(.96111 0 0 .96111 2.2111 2.033)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#a802b5" offset="0"/>
+<stop stop-color="#8d0227" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient4319" x1="66.281" x2="64.944" y1="128.62" y2="16.578" gradientTransform="matrix(.96111 0 0 .96111 2.2111 2.033)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2d2f33" offset="0"/>
+<stop stop-opacity=".95294" offset="1"/>
+</linearGradient>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<clipPath>
+<rect width="384" height="384"/>
+</clipPath>
+<radialGradient id="radialGradient935-3" cx="190.85" cy="148.93" r="53.835" gradientTransform="matrix(1.3408 0 0 1.3408 -187.38 -130.79)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient929"/>
+<linearGradient id="linearGradient929">
+<stop offset="0"/>
+<stop stop-opacity=".74118" offset=".27788"/>
+<stop stop-opacity=".26275" offset=".5838"/>
+<stop stop-opacity=".21569" offset=".62282"/>
+<stop stop-opacity=".17255" offset=".66894"/>
+<stop stop-opacity=".13333" offset=".70968"/>
+<stop stop-opacity=".090196" offset=".76299"/>
+<stop stop-opacity=".066667" offset=".79677"/>
+<stop stop-opacity=".031373" offset=".86607"/>
+<stop stop-opacity=".027451" offset=".88823"/>
+<stop stop-opacity=".023529" offset=".90482"/>
+<stop stop-opacity=".019608" offset=".91823"/>
+<stop stop-opacity=".011765" offset=".9452"/>
+<stop stop-opacity="0" offset="1"/>
+</linearGradient>
+<radialGradient id="radialGradient1005" cx="190.85" cy="148.93" r="53.835" gradientTransform="matrix(1.4638 0 0 1.4638 -209.34 -147.66)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient929"/>
+<radialGradient id="radialGradient959" cx="190.85" cy="148.93" r="53.835" gradientTransform="matrix(1.4268 0 0 1.4268 -203.76 -143.63)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient929"/>
+<linearGradient id="linearGradient886" x1="16.637" x2="16.637" y1="9.8686" y2="123.13" gradientTransform="matrix(3.7795 0 0 3.7795 6.104 2.1983)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#fff" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient904" x1="65.991" x2="65.991" y1="46.837" y2="103.18" gradientTransform="translate(6.104 2.1983)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#180018" offset="0"/>
+<stop stop-color="#430120" offset="1"/>
+</linearGradient>
+</defs>
+<circle cx="70.016" cy="70.334" r="78.802" fill="url(#radialGradient1005)" opacity=".42924"/>
+<circle cx="68.52" cy="68.896" r="72.184" fill="url(#radialGradient935-3)" opacity=".42924"/>
+<circle cx="68.544" cy="68.861" r="76.813" fill="url(#radialGradient959)" opacity=".42924"/>
+<circle cx="68.483" cy="67.74" r="61.532" fill="url(#linearGradient4319)" stroke="url(#linearGradient4186)" stroke-width="5.7667"/>
+<path d="m46.541 38.374 7.8374-7.8374h43.106v74.455h-58.78v-27.431l3.9187-3.9187v-7.8374h-3.9187v-7.8374l7.8374-7.8374z" fill="url(#linearGradient886)"/>
+<path d="m54.379 38.374v11.756h7.8374v-11.756zm15.675 0v11.756h7.8374v-11.756zm15.675 0v11.756h7.8374v-11.756z" fill="#a802b5"/>
+<path d="m126.87 67.74c0 32.246-26.141 58.387-58.387 58.387-16.123 0-30.72-6.5351-41.286-17.101l82.571-82.571c10.566 10.566 17.101 25.163 17.101 41.286z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" fill-opacity=".76131" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m97.485 38.991-58.781 58.781v7.2188h58.781z" fill="url(#linearGradient904)"/>
+<path d="m93.565 42.911-7.2188 7.2188h7.2188z" fill="#fff" fill-opacity=".87163"/>
+</svg>

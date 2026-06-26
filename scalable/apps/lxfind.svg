@@ -1,0 +1,40 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient825" x1="-741.83" x2="-741.83" y1="959.05" y2="93.836" gradientTransform="matrix(.13668 0 0 .13668 162.31 -5.9893)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ccd4da" offset="0"/>
+<stop stop-color="#fff" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient2989" x1="35.718" x2="35.718" y1="-4.2333" y2="5.3812" gradientTransform="matrix(8.9739 0 0 8.9739 -283.66 70.443)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#19e178" offset="0"/>
+<stop stop-color="#0aaf3c" offset="1"/>
+</linearGradient>
+<radialGradient id="radialGradient1478" cx="16.827" cy="5.3619" r="6.811" gradientTransform="matrix(14.376 0 0 8.9993 -178.32 -38.736)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00e6b9" offset="0"/>
+<stop stop-color="#0078eb" offset="1"/>
+</radialGradient>
+<radialGradient id="radialGradient1428" cx="25.88" cy="17.612" r="4.6383" gradientTransform="matrix(5.5156 0 0 5.5156 -79.151 -30.433)" gradientUnits="userSpaceOnUse">
+<stop stop-opacity=".30649" offset="0"/>
+<stop stop-opacity=".30588" offset=".47678"/>
+<stop stop-opacity=".28235" offset=".53314"/>
+<stop stop-opacity=".22353" offset=".60704"/>
+<stop stop-opacity=".18431" offset=".65718"/>
+<stop stop-opacity=".14118" offset=".69983"/>
+<stop stop-opacity=".12941" offset=".71219"/>
+<stop stop-opacity=".070588" offset=".76481"/>
+<stop stop-opacity=".058824" offset=".78109"/>
+<stop stop-opacity=".05098" offset=".79363"/>
+<stop stop-opacity=".047059" offset=".80749"/>
+<stop stop-opacity=".035294" offset=".82897"/>
+<stop stop-opacity=".027451" offset=".85362"/>
+<stop stop-opacity="0" offset=".93636"/>
+<stop stop-opacity="0" offset="1"/>
+</radialGradient>
+</defs>
+<circle cx="63.592" cy="64.286" r="61.38" fill="url(#linearGradient825)"/>
+<circle cx="63.592" cy="64.286" r="54.77" fill="url(#linearGradient2989)"/>
+<circle cx="63.592" cy="64.286" r="32.861" fill="none" opacity=".3" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4929"/>
+<path d="m63.591 9.5176c-10.925 0.00439-21.6 3.276-30.651 9.3946l31.868 55.198 31.141-53.938c-9.3792-6.9009-20.714-10.633-32.358-10.654z" fill="url(#radialGradient1478)"/>
+<circle cx="63.591" cy="66.708" r="25.583" fill="url(#radialGradient1428)" opacity=".49698" style="paint-order:stroke markers fill"/>
+<ellipse cx="63.592" cy="64.286" rx="15.822" ry="15.781" fill="#fff"/>
+<ellipse cx="63.592" cy="64.286" rx="10.953" ry="10.924" fill="#0078eb"/>
+</svg>

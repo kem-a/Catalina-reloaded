@@ -1,0 +1,26 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient825" x1="-741.83" x2="-741.83" y1="959.05" y2="93.836" gradientTransform="matrix(.13668 0 0 .13668 162.31 -5.9893)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ccd4da" offset="0"/>
+<stop stop-color="#fff" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient835" x1="-738.76" x2="-738.76" y1="931.43" y2="152.13" gradientTransform="matrix(.13668 0 0 .13668 161.84 -5.9893)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#dfe3e8" offset="0"/>
+<stop stop-color="#fefeff" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient910" x1="48.877" x2="81.858" y1="83.935" y2="56.688" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0087ea" offset="0"/>
+<stop stop-color="#2da7ff" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient918" x1="31.829" x2="59.887" y1="105.42" y2="75.334" gradientUnits="userSpaceOnUse">
+<stop stop-color="#e40045" offset="0"/>
+<stop stop-color="#ff2357" offset="1"/>
+</linearGradient>
+</defs>
+<circle cx="63.592" cy="64.286" r="61.38" fill="url(#linearGradient825)"/>
+<circle cx="63.12" cy="64.286" r="55.09" fill="url(#linearGradient835)"/>
+<g transform="translate(5.3074 -13.663)">
+<path d="m30.037 49.572c-0.50003 0-0.90234 0.40232-0.90234 0.90234v24.488c0 0.50002 0.40231 0.90234 0.90234 0.90234h24.488c0.50003 0 0.90234-0.40232 0.90234-0.90234v-24.488c0-0.50002-0.40231-0.90234-0.90234-0.90234zm31.111 0c-0.50003 0-0.90234 0.40232-0.90234 0.90234v24.488c0 0.50002 0.40231 0.90234 0.90234 0.90234h24.488c0.50003 0 0.90234-0.40232 0.90234-0.90234v-24.488c0-0.50002-0.40231-0.90234-0.90234-0.90234zm0 30.461c-0.50003 0-0.90234 0.40232-0.90234 0.90234v24.488c0 0.50002 0.40231 0.90234 0.90234 0.90234h24.488c0.50003 0 0.90234-0.40232 0.90234-0.90234v-24.488c0-0.50002-0.40231-0.90234-0.90234-0.90234z" fill="url(#linearGradient910)"/>
+<rect x="29.087" y="80.034" width="26.293" height="26.293" rx=".90258" ry=".90257" fill="url(#linearGradient918)"/>
+</g>
+</svg>

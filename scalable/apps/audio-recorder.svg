@@ -1,0 +1,73 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient4767">
+<stop stop-color="#1a1a1b" offset="0"/>
+<stop stop-color="#1a1a1a" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient4769" x1="15.194" x2="18.797" y1="5.5249" y2="28.127" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4767"/>
+</defs>
+<filter x="-.047627" y="-.081057" width="1.0953" height="1.1621" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation=".31490495"/>
+</filter>
+<filter id="d" x="-.018997" y="-.019407" width="1.038" height="1.0388" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation=".22559376"/>
+</filter>
+<g transform="matrix(1.035 0 0 1.035 -.71267 -.49393)">
+<path d="m26.182 3.0561-24.477 3.6816 0.035156 0.2461 3.5117 23.971 24.953-3.8184z" fill="#0f0f0f" filter="url(#d)"/>
+<path d="m1.9879 6.9485 23.987-3.6081 3.9422 23.587-24.455 3.7418z" fill="url(#linearGradient4769)" stroke="url(#linearGradient4769)" stroke-width=".5"/>
+<g transform="translate(3.1456 29.528)">
+<g transform="translate(-32.09 -20.193)" fill="none" stroke="#c42d2a" stroke-linecap="round" stroke-width=".39687">
+<path d="m39.105 0.17938 2.5113 15.714"/>
+<path d="m40.109 1.9014 1.9014 12.09"/>
+<path d="m40.791 1.5785 1.9373 12.521"/>
+<path d="m41.903 3.9822 1.1121 7.498"/>
+<path d="m42.836 5.4172 0.64576 4.5203"/>
+<path d="m43.625 6.1706 0.43051 2.5831"/>
+<path d="m44.127 5.0944 0.82514 4.8073"/>
+<path d="m39.155 4.5106 1.2177 7.4328"/>
+<path d="m38.368 3.9017 1.3952 8.8027"/>
+<path d="m38.039 6.4132 0.68494 4.0081"/>
+<path d="m37.252 5.7282 0.88788 5.6824"/>
+<path d="m36.897 7.8084 0.27905 1.7504"/>
+<path d="m36.314 8.3919 0.0761 0.78641"/>
+<path d="m33.599 8.95 0.02537 0.38052"/>
+<path d="m32.94 9.2544"/>
+<path d="m34.284 8.9246 0.05074 0.35515"/>
+<path d="m34.995 8.8992 0.02537 0.20294"/>
+<path d="m35.629 8.7724 0.02537 0.12684"/>
+<path d="m32.94 9.2544"/>
+<path d="m32.94 9.2544 0.01903 0.11416"/>
+</g>
+<g fill="none" stroke="#fff" stroke-linecap="round" stroke-width=".39687">
+<path d="m13.42-15.626 0.86251 5.378"/>
+<path d="m14.308-14.104 0.35515 2.0041"/>
+<path d="m14.992-14.282 0.40589 2.3339"/>
+<path d="m15.652-14.561 0.43126 2.7144"/>
+<path d="m16.438-14.13 0.23574 1.5864"/>
+<path d="m17.149-13.884 0.08969 0.84308"/>
+<path d="m17.83-14.225 0.16144 1.6682"/>
+<path d="m18.53-14.171 0.05381 1.3095"/>
+<path d="m19.211-14.135 0.16144 1.6682"/>
+<path d="m19.857-14.296 0.16144 1.6682"/>
+<path d="m19.857-14.296 0.16144 1.6682"/>
+<path d="m20.53-14.35 0.16144 1.6682"/>
+<path d="m21.176-14.691 0.16144 1.6682"/>
+<path d="m21.893-14.503 0.16144 1.6682"/>
+<path d="m22.566-14.503 0.16144 1.6682"/>
+<path d="m23.265-14.682 0.16144 1.6682"/>
+<path d="m23.922-14.65 0.02537 0.21563"/>
+<path d="m24.658-14.738 0.01268 0.13952"/>
+</g>
+<circle cx="11.66" cy="-22.099" r=".86102" fill="#1ab2f9" style="paint-order:fill markers stroke"/>
+<circle cx="14.601" cy="-3.5158" r=".86102" fill="#1ab2f9" style="paint-order:fill markers stroke"/>
+<path d="m11.66-22.279 2.9777 18.835" fill="none" stroke="#1ab2f9" stroke-width=".52917"/>
+</g>
+<path d="m25.2 15.353c-4.2048 0-7.6191 3.4144-7.6191 7.6191s3.4144 7.6191 7.6191 7.6191 7.6191-3.4144 7.6191-7.6191-3.4144-7.6191-7.6191-7.6191z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-opacity=".057034" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path transform="scale(.26458)" d="m94.734 58.062c-15.892 0-28.797 12.905-28.797 28.797 0 8.1591 3.4062 15.525 8.8672 20.768l38.27-5.8555-6.9102-41.342c-3.5054-1.5199-7.3686-2.3672-11.43-2.3672z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-opacity=".057034" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path transform="scale(.26458)" d="m94.326 58.062c-15.892 0-28.797 12.905-28.797 28.797 0 8.1866 3.4305 15.575 8.9238 20.82l38.621-5.9082-6.877-41.143c-3.6213-1.6432-7.6388-2.5664-11.871-2.5664z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-opacity=".057034" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path transform="scale(.26458)" d="m93.955 58.062c-15.892 0-28.797 12.905-28.797 28.797 0 8.2124 3.4509 15.621 8.9746 20.869l38.941-5.957-6.8457-40.961c-3.7248-1.7601-7.8838-2.748-12.273-2.748z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-opacity=".057034" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path transform="scale(.26458)" d="m93.648 58.164c-15.892 0-28.797 12.905-28.797 28.797 0 8.1876 3.4313 15.577 8.9258 20.822l39.297-6.0117-6.8008-40.691c-3.8133-1.8655-8.0975-2.916-12.625-2.916z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-opacity=".057034" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<circle cx="25.529" cy="22.87" r="7.3526" fill="#f43132" stroke="#961e1f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".53293" style="paint-order:fill markers stroke"/>
+<path d="m25.53 18.167c-0.89438 0-1.6149 0.71999-1.6149 1.6144v3.4437c0 0.89438 0.72051 1.6144 1.6149 1.6144 0.89438 0 1.6144-0.71999 1.6144-1.6144v-3.4437c0-0.89438-0.71999-1.6144-1.6144-1.6144zm2.5254 3.8649a0.29107 0.29107 0 0 0-0.28835 0.29662v1.0041c0 0.75877-0.27266 1.2698-0.67954 1.6113-0.40689 0.34144-0.96522 0.50916-1.5332 0.49403-0.56802-0.01513-1.1377-0.21382-1.5565-0.56844s-0.69672-0.85562-0.70693-1.541v-0.99994a0.29107 0.29107 0 0 0-0.29507-0.29507 0.29107 0.29107 0 0 0-0.28732 0.29507v1.0077c0.01258 0.84417 0.38024 1.5246 0.91416 1.9766 0.45629 0.38635 1.0277 0.61265 1.6154 0.68213v0.94464h-1.1477c-0.17567 0-0.31729 0.14162-0.31729 0.31729s0.14162 0.31678 0.31729 0.31678h2.8789c0.17567 0 0.31729-0.1411 0.31729-0.31678s-0.14162-0.31729-0.31729-0.31729h-1.1493v-0.92708c0.59614-0.03559 1.1809-0.23614 1.6428-0.62374 0.53445-0.44848 0.88677-1.1513 0.88677-2.0562v-1.0041a0.29107 0.29107 0 0 0-0.29404-0.29662z" fill="#9b2021" style="paint-order:fill markers stroke"/>
+</g>
+</svg>

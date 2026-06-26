@@ -1,0 +1,16 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient827" x1="1.3017" x2="16.054" y1="1.6271" y2="17.464" gradientTransform="matrix(4.8139 0 0 4.8139 2.6266 2.4444)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#31d5dd" offset="0"/>
+<stop stop-color="#21c1cd" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient837" x1="4.6644" x2="20.339" y1="5.0983" y2="21.207" gradientTransform="matrix(4.8139 0 0 4.8139 2.6266 2.4444)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0e3c49" offset="0"/>
+<stop stop-color="#0a2932" offset="1"/>
+</linearGradient>
+</defs>
+<rect x="6.2819" y="6.6219" width="115.4" height="115.4" fill="url(#linearGradient827)" style="paint-order:fill markers stroke"/>
+<path d="m15.159 15.76h96.604v96.604h-96.604z" fill="url(#linearGradient837)" style="paint-order:fill markers stroke"/>
+<path d="m15.16 15.758v96.607h96.607v-96.607zm1.9556 1.9651h92.686v92.686h-92.686z" fill-opacity=".26374" style="paint-order:fill markers stroke"/>
+<text transform="scale(.84949 1.1772)" x="39.852715" y="70.90139" fill="#2cbec7" font-family="sans-serif" font-size="45.276px" font-weight="bold" letter-spacing="0px" stroke-width="1.1319" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="39.852715" y="70.90139" fill="#2cbec7" stroke-width="1.1319">Sg</tspan></text>
+</svg>

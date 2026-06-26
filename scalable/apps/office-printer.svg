@@ -1,0 +1,17 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient835" x1="476.86" x2="476.36" y1="112.16" y2="162.63" gradientTransform="matrix(5.2904 5.5751e-8 -5.5751e-8 5.2904 -2379.8 -500.04)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7c765f" offset="0"/>
+<stop stop-color="#6c6753" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient3426" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(1.4701 0 0 1.4701 -828.58 -583.84)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3889e9" offset="0"/>
+<stop stop-color="#5ea5fb" offset="1"/>
+</linearGradient>
+</defs>
+<rect transform="rotate(3.9056)" x="292.9" y="4.1388" width="195.15" height="411.66" ry="25.079" fill="#6c6753"/>
+<rect transform="rotate(3.9056)" x="290.88" y="24.843" width="176.12" height="367.26" ry="0" fill="#fff"/>
+<rect transform="rotate(-8.6391)" x="16.549" y="49.945" width="298.99" height="464.95" fill="url(#linearGradient835)"/>
+<circle cx="-239.71" cy="197.94" r="0" fill="url(#linearGradient3426)"/>
+<path d="m156.29 204.53c-6.0805 0.89784-10.291 6.5668-9.3929 12.647l3.2545 22.041 11.02-1.6272-3.2545-22.041 88.164-13.018 3.2545 22.041 11.02-1.6272-3.2545-22.041c-0.89783-6.0805-6.5562-10.292-12.647-9.3929zm-26.552 48.963c-6.0805 0.89783-10.291 6.5675-9.3929 12.648l8.1362 55.102c0.89946 6.0915 6.5668 10.291 12.647 9.3929l22.041-3.2545 6.509 44.082c0.89945 6.0915 6.5668 10.291 12.647 9.3929l88.164-13.018c6.0915-0.89945 10.292-6.5562 9.3929-12.647l-6.509-44.082 22.041-3.2545c6.0916-0.89947 10.292-6.5562 9.3929-12.647l-8.1362-55.102c-0.89783-6.0805-6.5559-10.293-12.647-9.3936zm144.89-10.133c6.0912-0.89941 11.75 3.3123 12.648 9.3928 0.89946 6.0915-3.302 11.749-9.3935 12.648-6.0916 0.89946-11.748-3.3024-12.647-9.3936-0.89783-6.0805 3.3017-11.748 9.3929-12.647zm-105.32 49.334 88.164-13.018 11.391 77.143-88.164 13.018z" fill="#fff" stroke-width=".34812"/>
+</svg>

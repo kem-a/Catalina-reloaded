@@ -1,0 +1,40 @@
+<svg width="128" height="128" version="1.1" viewbox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="lgrad" x1="32" x2="32" y1="32" y2="992" gradientTransform="translate(0,-896)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f8f8f8" offset="0"/>
+<stop stop-color="#ccc" offset="1"/>
+</linearGradient>
+<radialGradient id="rgrad" x1="0%" x2="0%" y1="0%" y2="100%" cx="512" cy="512" r="440" fy="494.4" gradientTransform="translate(0,-896)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00f0ff" offset="0"/>
+<stop stop-color="#0070e0" offset="1"/>
+</radialGradient>
+</defs>
+<g transform="matrix(.12681 0 0 .12681 -1.2052 112.21)">
+<circle cx="512" cy="-384" r="480" fill="url(#lgrad)"/>
+<circle cx="512" cy="-384" r="440" fill="url(#rgrad)"/>
+<g transform="translate(0,-896)" stroke="#ddd" stroke-linecap="round" stroke-width="10">
+<g id="t16">
+<g id="t8">
+<g id="t4">
+<g id="t2">
+<line x1="512" x2="512" y1="100" y2="170"/>
+<line x1="512" x2="512" y1="924" y2="854"/>
+<line transform="rotate(5.625,512,512)" x1="512" x2="512" y1="100" y2="130"/>
+<line transform="rotate(5.625,512,512)" x1="512" x2="512" y1="924" y2="894"/>
+</g>
+<use transform="rotate(90,512,512)" width="100%" height="100%" xlink:href="#t2"/>
+</g>
+<use transform="rotate(45,512,512)" width="100%" height="100%" xlink:href="#t4"/>
+</g>
+<use transform="rotate(22.5,512,512)" width="100%" height="100%" xlink:href="#t8"/>
+</g>
+<use transform="rotate(11.25,512,512)" width="100%" height="100%" xlink:href="#t16"/>
+</g>
+<g transform="rotate(-45 -569.57 64)">
+<polygon points="512 450 512 512 85 512" fill="#ddd"/>
+<polygon points="939 512 512 512 512 450" fill="#e44"/>
+<polygon points="512 574 512 512 939 512" fill="#c00"/>
+<polygon points="512 574 512 512 85 512" fill="#aaa"/>
+</g>
+</g>
+</svg>

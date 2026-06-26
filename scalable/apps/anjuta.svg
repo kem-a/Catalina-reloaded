@@ -1,0 +1,17 @@
+<svg width="136.53" height="136.53" version="1.1" viewBox="0 0 136.53 136.53" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient859" x1="91.31" x2="34.942" y1="122.97" y2="15.363" gradientUnits="userSpaceOnUse">
+<stop stop-color="#f5f5f5" offset="0"/>
+<stop stop-color="#e0e1e0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient902" x1="68.204" x2="67.638" y1="132.27" y2="15.816" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9416b7" offset="0"/>
+<stop stop-color="#e41b93" offset="1"/>
+</linearGradient>
+</defs>
+<filter x="-.069933" y="-.054406" width="1.1399" height="1.1088" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="1.9764485"/>
+</filter>
+<path d="m68.113 2.2168c-36.979 0-67.021 30.042-67.021 67.021 0 36.979 30.042 67.021 67.021 67.021 36.979 0 67.021-30.042 67.021-67.021 0-36.979-30.042-67.021-67.021-67.021z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient859)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m68.116 9.7588c-32.858 0-59.483 26.727-59.483 59.713 0 30.52 22.792 55.655 52.224 59.249 0 0 7.7504-19.286 8.8679-28.497 1.1175-9.2112-1.5544-25.781-1.5544-25.781s-12.238-2.6709-16.469-0.57894c-4.2307 2.092-4.2743 8.1468-6.852 9.6543-2.5778 1.5075-4.2411 0.44245-6.0452 0.63561s-2.4846 1.6537-4.7796 0.52094c-1.476-0.72854-3.3162-4.2505-4.4416-6.6713-0.64878-1.3026-0.99863-2.5225-0.6978-4.2723l1.0409-6.0542c0.4825-2.2623 0.7757-3.4364 2.6289-5.1347l22.659-19.141-4.2599-10.174 11.17 4.278-5.8736-14.682s16.419 7.1419 23.839 13.468c7.4205 6.3259 14.336 15.283 19.405 24.335 6.7399 12.035 14.106 38.903 14.106 38.903l2.9376 4.6246c6.9628-9.7798 11.055-21.746 11.055-34.685 0-32.985-26.624-59.713-59.483-59.713z" fill="url(#linearGradient902)" stroke-width=".35373"/>
+</svg>
