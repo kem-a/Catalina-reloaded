@@ -1,6 +1,6 @@
 # Catalina-reloaded
 
-An icon theme for Linux inspired by macOS Catalina. 
+An icon theme for Linux inspired by macOS Catalina.
 
 ## Sizes
 
