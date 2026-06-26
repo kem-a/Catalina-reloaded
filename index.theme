@@ -21,7 +21,7 @@ SmallSizes=16
 PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128
 
-Directories=scalable/apps,scalable/devices,scalable/mimetypes,scalable/places,symbolic/actions,symbolic/apps,symbolic/devices,symbolic/mimes,symbolic/places,symbolic/status,scalable@2x/apps,scalable@2x/devices,scalable@2x/mimetypes,scalable@2x/places,symbolic@2x/actions,symbolic@2x/apps,symbolic@2x/devices,symbolic@2x/mimes,symbolic@2x/places,symbolic@2x/status
+Directories=scalable/apps,scalable/devices,scalable/mimetypes,scalable/places,symbolic/actions,symbolic/apps,symbolic/devices,symbolic/mimes,symbolic/places,symbolic/status,symbolic/categories,symbolic/emblems,scalable@2x/apps,scalable@2x/devices,scalable@2x/mimetypes,scalable@2x/places,symbolic@2x/actions,symbolic@2x/apps,symbolic@2x/devices,symbolic@2x/mimes,symbolic@2x/places,symbolic@2x/status,symbolic@2x/categories,symbolic@2x/emblems
 
 [scalable/apps]
 Context=Applications
@@ -88,6 +88,20 @@ MaxSize=512
 
 [symbolic/status]
 Context=Status
+Size=16
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[symbolic/categories]
+Context=Categories
+Size=16
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[symbolic/emblems]
+Context=Emblems
 Size=16
 Type=Scalable
 MinSize=8
@@ -167,6 +181,22 @@ MaxSize=512
 
 [symbolic@2x/status]
 Context=Status
+Size=16
+Scale=2
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[symbolic@2x/categories]
+Context=Categories
+Size=16
+Scale=2
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[symbolic@2x/emblems]
+Context=Emblems
 Size=16
 Scale=2
 Type=Scalable
