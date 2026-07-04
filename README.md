@@ -8,6 +8,36 @@ All sizes are also available in HiDPI (`@2x`).
 
 ## Installation
 
+### Install script
+
+```bash
+# For current user (~/.local/share/icons)
+./install.sh
+
+# System-wide (/usr/share/icons)
+sudo ./install.sh --system
+```
+
+The script copies the theme (preserving the `@2x` symlinks), strips repo/dev
+files, and refreshes the icon cache with `gtk-update-icon-cache`.
+
+Options:
+
+| Option | Description |
+| --- | --- |
+| `-S`, `--system` | Install/remove system-wide (needs root) |
+| `-r`, `-u`, `--uninstall`, `--remove` | Remove the installation |
+| `-e`, `--enable` | Also enable the theme via `gsettings` after install |
+| `--dry-run` | Show what would happen, change nothing |
+| `-h`, `--help` | Show help |
+
+To uninstall:
+
+```bash
+./install.sh --uninstall            # current user
+sudo ./install.sh -r -S             # system-wide
+```
+
 ### Manual
 
 ```bash
@@ -21,6 +51,18 @@ sudo cp -r Catalina-reloaded /usr/share/icons/
 ### Apply the theme
 
 Use your desktop environment's settings or a tool like **GNOME Tweaks**, **LXAppearance**, or **kvantum** to select `Catalina-reloaded`.
+
+Or set it from the command line with `gsettings`:
+
+```bash
+gsettings set org.gnome.desktop.interface icon-theme 'Catalina-reloaded'
+```
+
+To revert to the default:
+
+```bash
+gsettings reset org.gnome.desktop.interface icon-theme
+```
 
 ## Screenshots
 
