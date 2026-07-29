@@ -1,9 +1,5 @@
 <svg width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<pattern id="pattern1238" patternTransform="matrix(10 0 0 10 .76322 .0095148)" xlink:href="#Strips4_1white"/>
-<pattern id="Strips4_1white" width="1.25" height="1" patternTransform="translate(0) scale(10)" patternUnits="userSpaceOnUse">
-<rect y="-.5" width="1" height="2" fill="#fff"/>
-</pattern>
 <linearGradient id="linearGradient2149" x1="-1386.8" x2="-1386.2" y1="476.13" y2="-6.7201" gradientTransform="matrix(.81804 0 0 .81804 -21.538 2452.4)" gradientUnits="userSpaceOnUse">
 <stop stop-color="#a06130" offset="0"/>
 <stop stop-color="#ddc061" offset="1"/>
@@ -18,7 +14,7 @@
 <g transform="matrix(.99547 0 0 .9955 -5.2592 12.145)" stroke-width="4.0565">
 <rect x="-1357.6" y="2368.2" width="393.83" height="500.76" ry="27.876" fill-rule="evenodd" opacity=".25"/>
 <rect x="-1357.6" y="2360.1" width="393.83" height="500.76" ry="27.876" fill="url(#linearGradient2149)" fill-rule="evenodd" stroke="#80624a" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="4.5995"/>
-<rect transform="matrix(0,1,1,0,0,0)" x="2362.2" y="-1354.2" width="493.72" height="387.11" ry="21.549" fill="url(#pattern1238)" fill-rule="evenodd" opacity=".07"/>
+<rect transform="matrix(0,1,1,0,0,0)" x="2362.2" y="-1354.2" width="493.72" height="387.11" ry="21.549" fill="#fff" fill-rule="evenodd" opacity=".07"/>
 <g transform="matrix(.81804 0 0 .81804 -480.45 2452.4)" opacity=".5" stroke-width="4.0686">
 <g transform="matrix(.17805 0 0 .20693 -698.83 -66.748)">
 <g stroke-width="4.0686">
