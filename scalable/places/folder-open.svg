@@ -1,4 +1,6 @@
 <svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs><filter id="thumb-shadow" x="0" y="0" width="128" height="128" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="4" stdDeviation="2.44949" flood-color="#000" flood-opacity="0.55"/></filter></defs>
+<g filter="url(#thumb-shadow)"><g transform="matrix(0.890625 0 0 0.890625 7 3)">
 <defs>
 <linearGradient id="linearGradient838">
 <stop stop-color="#a3f2ff" offset="0"/>
@@ -35,4 +37,5 @@
 <path d="m8.1576 94.291 0.10743 1h110.93l0.11133-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#2d5c81" fill-opacity=".072243" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 <path d="m8.265 95.291 0.10742 1h110.71l0.11133-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" fill-opacity=".13688" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 <path d="m4.2888 40.592h119.06c0.95096 0 1.8213 0.77136 1.7165 1.7165l-6.8238 61.582c-0.10473 0.94517-0.76556 1.7153-1.7165 1.7165l-105.61 0.1356c-0.95096 1e-3 -1.6149-0.77103-1.7165-1.7165l-6.6321-61.718c-0.1016-0.94551 0.76557-1.7165 1.7165-1.7165z" fill="none" stroke="url(#linearGradient840)" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+</g></g>
 </svg>

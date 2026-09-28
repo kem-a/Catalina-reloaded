@@ -13,6 +13,26 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+<sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.328125"
+     inkscape:cx="64.06823"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1168"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+<defs><filter id="thumb-shadow" x="0" y="0" width="128" height="128" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="4" stdDeviation="2.44949" flood-color="#000" flood-opacity="0.55"/></filter></defs>
+<g filter="url(#thumb-shadow)"><g transform="matrix(0.890625 0 0 0.890625 7 3)">
   <defs
      id="defs17">
     <linearGradient
@@ -35,24 +55,7 @@
          id="stop5-6" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     id="namedview17"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.328125"
-     inkscape:cx="64.06823"
-     inkscape:cy="64"
-     inkscape:window-width="1920"
-     inkscape:window-height="1168"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg17" />
+  
   <linearGradient
      id="a"
      x1="-33.765"
@@ -180,4 +183,5 @@
      fill="url(#linearGradient943)"
      style="fill:#5291bd;paint-order:fill markers stroke;fill-opacity:0.50280511"
      id="path15-7" />
+</g></g>
 </svg>

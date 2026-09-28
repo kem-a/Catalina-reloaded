@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" version="1.1">
+<defs><filter id="thumb-shadow" x="0" y="0" width="96" height="96" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="3" stdDeviation="1.83712" flood-color="#000" flood-opacity="0.55"/></filter></defs>
+<g filter="url(#thumb-shadow)"><g transform="matrix(0.890625 0 0 0.890625 5.25 2.25)">
 <linearGradient id="a" x1="27.5" x2="27.25" y1="1045.4" y2="981.36" gradientTransform="translate(0,-2)" gradientUnits="userSpaceOnUse">
 <stop stop-color="#eeeeef" offset="0" />
 <stop stop-color="#d4d5d5" offset="1" />
@@ -76,4 +78,5 @@
 <path d="m48.772 4.63-0.7955-0.62977v10.756l0.7955 0.62424z" fill="#321b02" opacity=".1" />
 <path d="m47.969 4-44.406 34.719 0.5 0.625 43.906-34.344 43.969 34.25 0.5-0.625z" fill="#fff" opacity=".1" />
 </g>
+</g></g>
 </svg>

@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1" viewBox="0 0 33.867 33.867">
+<defs><filter id="thumb-shadow" x="0" y="0" width="33.867" height="33.867" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="1.05834" stdDeviation="0.648101" flood-color="#000" flood-opacity="0.55"/></filter></defs>
+<g filter="url(#thumb-shadow)"><g transform="matrix(0.890625 0 0 0.890625 1.8521 0.793758)">
 <defs>
 <linearGradient id="linearGradient4747-2" x1="170.46" x2="289.66" y1="704.73" y2="704.73" gradientTransform="matrix(.20715 0 0 .20715 -30.978 134.9)" gradientUnits="userSpaceOnUse">
 <stop stop-color="#f7f7f9" offset="0" />
@@ -50,4 +52,5 @@
 <path d="m9.4749 28.11a6.1736 2.3133 15.475 0 0-2.313 0.56688l0.12764 1.0397c-1.1e-6 0.5415 0.2509 1.0574 0.7028 1.5291a6.1736 2.3133 15.475 0 0 4.0933 1.8655 6.1736 2.3133 15.475 0 0 6.5624-0.58394l0.0016-7e-3a6.1736 2.3133 15.475 0 0-5.3486-3.8734 6.1736 2.3133 15.475 0 0-3.8261-0.53691z" fill="url(#radialGradient1912)" opacity=".272" style="paint-order:fill markers stroke" />
 <path d="m17.694 30.62a3.3901 2.1953 0 0 1-3.3874 2.1953 3.3901 2.1953 0 0 1-3.3929-2.1917 3.3901 2.1953 0 0 1 3.3819-2.1988 3.3901 2.1953 0 0 1 3.3983 2.1882" fill="url(#radialGradient1941)" style="paint-order:fill markers stroke" />
 </g>
+</g></g>
 </svg>
