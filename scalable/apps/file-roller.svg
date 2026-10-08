@@ -1,1 +1,589 @@
-7z.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg71"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs44">
+    <linearGradient
+       id="green"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="250"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#86fc6f"
+         id="stop1" />
+      <stop
+         offset=".2"
+         stop-color="#74f662"
+         id="stop2" />
+      <stop
+         offset=".4"
+         stop-color="#59ec4f"
+         id="stop3" />
+      <stop
+         offset=".6"
+         stop-color="#3be33a"
+         id="stop4" />
+      <stop
+         offset=".8"
+         stop-color="#1fda26"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#0dd419"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="border"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="250"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#a4ff92"
+         id="stop7" />
+      <stop
+         offset=".6"
+         stop-color="#5def53"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#10ea1c"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="teeth"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         stop-color="#f9ffff"
+         id="stop10" />
+      <stop
+         offset=".4"
+         stop-color="#d6eaf0"
+         id="stop11" />
+      <stop
+         offset=".7"
+         stop-color="#bed7e1"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#7f979f"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       id="rail"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         stop-color="#6b6b6c"
+         id="stop14" />
+      <stop
+         offset=".45"
+         stop-color="#a4a6a6"
+         id="stop15" />
+      <stop
+         offset=".65"
+         stop-color="#66696b"
+         id="stop16" />
+      <stop
+         offset="1"
+         stop-color="#292b2c"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="slider"
+       x1="0"
+       y1="24"
+       x2="0"
+       y2="51"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#edfaff"
+         id="stop18" />
+      <stop
+         offset=".3"
+         stop-color="#c2d6df"
+         id="stop19" />
+      <stop
+         offset=".65"
+         stop-color="#93a4ad"
+         id="stop20" />
+      <stop
+         offset="1"
+         stop-color="#4e595e"
+         id="stop21" />
+    </linearGradient>
+    <linearGradient
+       id="bridge"
+       x1="123"
+       y1="0"
+       x2="133"
+       y2="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f6ffff"
+         id="stop22" />
+      <stop
+         offset=".2"
+         stop-color="#c8dde5"
+         id="stop23" />
+      <stop
+         offset=".5"
+         stop-color="#9eafb6"
+         id="stop24" />
+      <stop
+         offset=".8"
+         stop-color="#c4d7df"
+         id="stop25" />
+      <stop
+         offset="1"
+         stop-color="#f1fbff"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       id="bridge-shade"
+       x1="0"
+       y1="25"
+       x2="0"
+       y2="49"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#36484e"
+         stop-opacity="0"
+         id="stop27" />
+      <stop
+         offset=".4"
+         stop-color="#36484e"
+         stop-opacity=".05"
+         id="stop28" />
+      <stop
+         offset="1"
+         stop-color="#272f32"
+         stop-opacity=".8"
+         id="stop29" />
+    </linearGradient>
+    <linearGradient
+       id="pull"
+       x1="0"
+       y1="48"
+       x2="0"
+       y2="94"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#91a0a6"
+         id="stop30" />
+      <stop
+         offset=".25"
+         stop-color="#9aabb2"
+         id="stop31" />
+      <stop
+         offset=".65"
+         stop-color="#b7cbd2"
+         id="stop32" />
+      <stop
+         offset=".9"
+         stop-color="#e2edf1"
+         id="stop33" />
+      <stop
+         offset="1"
+         stop-color="#f5ffff"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       id="pull-edge"
+       x1="119"
+       y1="54"
+       x2="139"
+       y2="88"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         id="stop35" />
+      <stop
+         offset=".45"
+         stop-color="#e1eaee"
+         id="stop36" />
+      <stop
+         offset=".75"
+         stop-color="#a6b3b8"
+         id="stop37" />
+      <stop
+         offset="1"
+         stop-color="#eef8fa"
+         id="stop38" />
+    </linearGradient>
+    <linearGradient
+       id="stop"
+       x1="0"
+       y1="141"
+       x2="0"
+       y2="146"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#eff7f9"
+         id="stop39" />
+      <stop
+         offset=".3"
+         stop-color="#bbc4c8"
+         id="stop40" />
+      <stop
+         offset=".65"
+         stop-color="#a0a5a7"
+         id="stop41" />
+      <stop
+         offset="1"
+         stop-color="#646565"
+         id="stop42" />
+    </linearGradient>
+    <filter
+       id="shadow"
+       x="-0.11740067"
+       y="-0.1152"
+       width="1.2348013"
+       height="1.2304"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.2"
+         id="feGaussianBlur42" />
+    </filter>
+    <path
+       id="tooth"
+       d="m 0.4,0 h 4.3 l 0.9,1 h 3 V 2.9 H 5.4 L 4.5,4 H 0.4 Q 0,2 0,1 Z"
+       fill="url(#teeth)"
+       stroke="#738389"
+       stroke-width="0.25"
+       stroke-linejoin="round" />
+    <pattern
+       id="closed-teeth"
+       x="121"
+       y="94"
+       width="14"
+       height="6.8"
+       patternUnits="userSpaceOnUse">
+      <use
+         href="#tooth"
+         id="use42" />
+      <use
+         href="#tooth"
+         transform="translate(14 3.4) scale(-1 1)"
+         id="use43" />
+    </pattern>
+    <path
+       id="pull-shape"
+       d="m 124,48 h 8 l 8,30 c 2.5,9 -2.5,16 -11,16.5 C 120.5,95 114.5,89 116.5,80 Z" />
+    <mask
+       id="pull-hole">
+      <rect
+         width="256"
+         height="256"
+         fill="#ffffff"
+         id="rect43"
+         x="0"
+         y="0" />
+      <ellipse
+         cx="128"
+         cy="81.699997"
+         rx="7.4000001"
+         ry="7.5999999"
+         fill="#000000"
+         id="ellipse43" />
+    </mask>
+    <clipPath
+       id="background-clip">
+      <rect
+         x="3"
+         width="250"
+         height="250"
+         rx="12"
+         id="rect44"
+         y="0" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#rail"
+       id="linearGradient71"
+       x1="199.18584"
+       y1="-1.1547005"
+       x2="218.2384"
+       y2="-1.1547005"
+       gradientTransform="scale(0.57735027,1.7320508)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#rail"
+       id="linearGradient72"
+       x1="237.97331"
+       y1="-1.1009638"
+       x2="256.13922"
+       y2="-1.1009638"
+       gradientTransform="scale(0.55048188,1.8165902)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#rail"
+       id="linearGradient73"
+       x1="666.11664"
+       y1="8.5750751"
+       x2="682.90948"
+       y2="8.5750751"
+       gradientTransform="scale(0.1786474,5.5976185)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#rail"
+       id="linearGradient74"
+       x1="744.48328"
+       y1="8.5750751"
+       x2="761.27612"
+       y2="8.5750751"
+       gradientTransform="scale(0.1786474,5.5976185)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g74"
+     transform="matrix(0.4852,0,0,0.4852,1.8944,3.35)">
+    <rect
+       x="3"
+       width="250"
+       height="250"
+       rx="12"
+       fill="url(#green)"
+       id="rect46"
+       y="0"
+       style="fill:url(#green)" />
+    <rect
+       x="3.5"
+       y="0.5"
+       width="249"
+       height="249"
+       rx="11.5"
+       fill="none"
+       stroke="url(#border)"
+       stroke-width="0.8"
+       id="rect47"
+       style="stroke:url(#border)" />
+    <g
+       clip-path="url(#background-clip)"
+       id="g71">
+      <!-- The zipper tape flares at the open top and closes beneath the pull. -->
+      <path
+         d="m 107,-2 h 42 c -5,14 -6,29 -6,40 v 101 c 0,8 -5,13 -13,13 h -4 c -8,0 -13,-5 -13,-13 V 38 c 0,-14 -2,-27 -6,-40 z"
+         fill="#253223"
+         opacity="0.2"
+         filter="url(#shadow)"
+         transform="translate(0,1.5)"
+         id="path47" />
+      <path
+         d="m 107,-2 h 42 c -5,14 -6,29 -6,40 v 101 c 0,8 -5,12 -13,12 h -4 c -8,0 -13,-4 -13,-12 V 38 c 0,-14 -2,-27 -6,-40 z"
+         fill="#444447"
+         id="path48" />
+      <path
+         d="m 108,-1 c 4,13 6,26 6,39 v 101 c 0,7 4,11 11,11 M 148,-1 c -4,14 -6,26 -6,39 v 101 c 0,7 -4,11 -11,11"
+         fill="none"
+         stroke="#5b5c5b"
+         stroke-width="0.8"
+         id="path49" />
+      <path
+         d="m 117,-2 h 22 l -6,30 V 143 H 123 V 28 Z"
+         fill="#292b2c"
+         id="path50" />
+      <path
+         d="m 115,-2 h 6 l 5,30 -3,3 -3,-2 z"
+         fill="url(#rail)"
+         id="path51"
+         style="fill:url(#linearGradient71)" />
+      <path
+         d="m 135,-2 h 6 l -5,31 -4,2 -1,-3 z"
+         fill="url(#rail)"
+         id="path52"
+         style="fill:url(#linearGradient72)" />
+      <rect
+         x="119"
+         y="48"
+         width="3"
+         height="94"
+         fill="url(#rail)"
+         id="rect52"
+         style="fill:url(#linearGradient73)" />
+      <rect
+         x="133"
+         y="48"
+         width="3"
+         height="94"
+         fill="url(#rail)"
+         id="rect53"
+         style="fill:url(#linearGradient74)" />
+      <path
+         d="m 120,52 v 89 m 15,-89 v 89"
+         fill="none"
+         stroke="#a3a7a8"
+         stroke-width="0.4"
+         opacity="0.7"
+         id="path53" />
+      <!-- Interlocking teeth remain visible through the pull's opening. -->
+      <rect
+         x="121"
+         y="48"
+         width="14"
+         height="93"
+         fill="url(#closed-teeth)"
+         id="rect54" />
+      <use
+         href="#tooth"
+         transform="rotate(-12,69.642956,-548.20455)"
+         id="use54" />
+      <use
+         href="#tooth"
+         transform="rotate(-10,118.50777,-663.40806)"
+         id="use55" />
+      <use
+         href="#tooth"
+         transform="rotate(-8,191.53116,-838.06448)"
+         id="use56" />
+      <use
+         href="#tooth"
+         transform="matrix(-0.9781476,-0.20791169,-0.20791169,0.9781476,140,6)"
+         id="use57" />
+      <use
+         href="#tooth"
+         transform="matrix(-0.98480775,-0.17364818,-0.17364818,0.98480775,138,14)"
+         id="use58" />
+      <use
+         href="#tooth"
+         transform="matrix(-0.99026807,-0.1391731,-0.1391731,0.99026807,136.5,22)"
+         id="use59" />
+      <rect
+         x="118.5"
+         y="141"
+         width="19"
+         height="5.5"
+         rx="0.80000001"
+         fill="#252727"
+         id="rect59" />
+      <rect
+         x="119.5"
+         y="141.5"
+         width="17"
+         height="4"
+         rx="0.40000001"
+         fill="url(#stop)"
+         stroke="#bdc8cc"
+         stroke-width="0.5"
+         id="rect60"
+         style="fill:url(#stop)" />
+      <path
+         d="m 121,142.5 v 2.5 m 14,-2.5 v 2.5"
+         fill="none"
+         stroke="#e0e8ec"
+         stroke-width="0.7"
+         id="path60" />
+      <!-- The slider's two shoulders flank its raised center bridge. -->
+      <path
+         d="m 114,30 q 14,-12 28,0 l -2,9 -4,10 h -16 l -4,-9 z"
+         fill="#171e20"
+         opacity="0.6"
+         filter="url(#shadow)"
+         transform="translate(0.3,1)"
+         id="path61" />
+      <path
+         d="m 114,30 q 14,-12 28,0 l -2,9 -4,10 h -16 l -4,-9 z"
+         fill="url(#slider)"
+         stroke="#cadce4"
+         stroke-width="0.7"
+         stroke-linejoin="round"
+         id="path62"
+         style="fill:url(#slider)" />
+      <path
+         d="m 115,31 q 6,-5 10,-5 m 6,0 q 6,1 9.5,5"
+         fill="none"
+         stroke="#f1fcff"
+         stroke-width="1.2"
+         id="path63" />
+      <path
+         d="m 117,32 3,14 m 19,-14 -3,14"
+         fill="none"
+         stroke="#83969f"
+         stroke-width="0.7"
+         id="path64" />
+      <path
+         d="m 124,24.5 h 8 V 46 q -4,3 -8,0 z"
+         fill="url(#bridge)"
+         stroke="#d5e5eb"
+         stroke-width="0.7"
+         id="path65"
+         style="fill:url(#bridge)" />
+      <path
+         d="m 124,25 h 8 v 21 q -4,3 -8,0 z"
+         fill="url(#bridge-shade)"
+         id="path66"
+         style="fill:url(#bridge-shade)" />
+      <path
+         d="m 125,25 h 6"
+         fill="none"
+         stroke="#f9ffff"
+         stroke-width="1.1"
+         id="path67" />
+      <!-- A tapered metal pull with a genuine opening over the zipper teeth. -->
+      <use
+         href="#pull-shape"
+         fill="#000000"
+         opacity="0.65"
+         mask="url(#pull-hole)"
+         filter="url(#shadow)"
+         transform="translate(0.4,1)"
+         id="use67" />
+      <use
+         href="#pull-shape"
+         fill="url(#pull)"
+         stroke="url(#pull-edge)"
+         stroke-width="1.4"
+         stroke-linejoin="round"
+         mask="url(#pull-hole)"
+         id="use68"
+         style="fill:url(#pull);stroke:url(#pull-edge)" />
+      <path
+         d="m 124,49 -6.5,30 c -2,8 2.5,13.5 9.5,14"
+         fill="none"
+         stroke="#f7ffff"
+         stroke-width="0.8"
+         id="path68" />
+      <path
+         d="m 132,49 7,30 c 2,7 -2,12.5 -8,14"
+         fill="none"
+         stroke="#aab7bd"
+         stroke-width="0.6"
+         id="path69" />
+      <path
+         d="m 124.5,50 h 7"
+         fill="none"
+         stroke="#e6f1f6"
+         stroke-width="1.1"
+         id="path70" />
+      <ellipse
+         cx="128"
+         cy="81.699997"
+         rx="7.5"
+         ry="7.6999998"
+         fill="none"
+         stroke="#dce9ee"
+         stroke-width="0.8"
+         id="ellipse70" />
+      <path
+         d="m 120.6,82 c -0.1,-4.4 2.9,-8 7.4,-8 4.3,0 7.4,3.2 7.5,7"
+         fill="none"
+         stroke="#65747a"
+         stroke-width="1"
+         id="path71" />
+    </g>
+  </g>
+</svg>
